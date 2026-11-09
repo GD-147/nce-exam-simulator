@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>NCE Practice Session</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<header class="topbar">
+  <div class="brandbar"><img id="logo" class="logo-small" alt="NCE" />
+    <div><div id="brand" class="brandname">NCE Exam Simulator</div><div class="brandnote">Practice Session</div></div>
+  </div>
+  <nav class="nav"><span id="timer" class="timer hidden"></span>
+    <a class="navlink" href="app.html?exam=nce">Back</a></nav>
+</header>
+<main class="container">
+  <section id="runnerPanel" class="page">
+    <h2 id="title">Loading…</h2><p id="desc" class="helper"></p>
+    <p id="metaLine" class="helper"></p>
+    <div class="panel"><div id="progress" class="progress"></div>
+      <div id="scenario" class="scenarioContext hidden"><span class="scenarioLabel">Scenario</span><div id="scenarioText"></div></div>
+      <div id="prompt" class="prompt"></div>
+      <div id="choices" class="choices"></div>
+      <div class="row nce-actions">
+        <button id="prevBtn" class="btn btn-secondary" disabled>Previous</button>
+        <button id="nextBtn" class="btn btn-secondary" disabled>Next</button>
+        <button id="finishBtn" class="btn">Finish &amp; Review</button>
+      </div>
+    </div>
+  </section>
+  <section id="breakPanel" class="page hidden">
+    <h2>Optional Mid-Exam Break</h2>
+    <p id="breakMessage">The first half has been submitted. Previous questions are locked.</p>
+    <div class="row nce-actions">
+      <button id="takeBreakBtn" class="btn">Start 15-minute break</button>
+      <button id="skipBreakBtn" class="btn btn-secondary">Continue now</button>
+      <button id="resumeBtn" class="btn hidden">Resume examination</button>
+    </div>
+  </section>
+  <section id="resultsPanel" class="page hidden">
+    <h2>Your Practice Results</h2>
+    <p id="scoreLine"></p><p id="timeLine" class="helper"></p>
+    <p class="helper">This is a practice score, not an official NBCC result or passing decision.</p>
+    <div id="review" class="review"></div>
+    <a href="app.html?exam=nce" class="btn nce-linkbtn">Return to Exam Simulator</a>
+  </section>
+</main>
+<script src="common.js"></script>
+<script src="runner.js"></script>
+</body>
+</html>

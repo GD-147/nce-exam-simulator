@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>NCE Exam Simulator</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<header class="topbar">
+  <div class="brandbar"><img id="logo" class="logo-small" alt="NCE" />
+    <div><div id="brand" class="brandname">NCE Exam Simulator</div><div class="brandnote">Member Access</div></div>
+  </div>
+  <nav class="nav">
+    <a class="navlink" href="#" data-page="home">Home</a>
+    <a class="navlink" href="#" data-page="sim">Exam Simulator</a>
+    <a class="navlink" href="#" data-page="pdf">Printable Practice Exams</a>
+    <a class="navlink" href="#" id="logoutLink">Log out</a>
+  </nav>
+</header>
+<main class="container">
+  <p id="error" role="alert" class="msg"></p>
+  <section id="page-home" class="page">
+    <h2>Welcome to the NCE Exam Simulator</h2>
+    <p>Prepare for the examination specifications effective <strong>July 1, 2027</strong>. Select one of the six behavioral domains for Practice Mode, or choose the full-length exam for timed Exam Mode.</p>
+    <p class="helper">Full-length practice: 170 questions, 225 minutes, three answer choices (A/B/C), 140 scored and 30 unscored items. Optional 15-minute mid-exam break.</p>
+    <p id="version" class="helper"></p>
+    <p id="disclaimer" class="helper"></p>
+  </section>
+  <section id="page-sim" class="page hidden">
+    <h2>Exam Simulator</h2>
+    <div class="panel">
+      <label class="label" for="sectionSelect">Choose a domain or full-length exam</label>
+      <select id="sectionSelect" class="select"></select>
+      <button id="startSim" class="btn">Start</button>
+    </div>
+    <div id="modePanel" class="panel hidden">
+      <h3>Choose your mode</h3>
+      <div class="row">
+        <button id="examModeBtn" class="btn btn-secondary">Exam Mode</button>
+        <button id="practiceModeBtn" class="btn btn-secondary">Practice Mode</button>
+      </div>
+      <p class="helper">Practice Mode draws 30 randomized questions from the available pool (or fewer if fewer remain). Full-length Exam Mode rotates the uploaded exams.</p>
+    </div>
+  </section>
+  <section id="page-pdf" class="page hidden">
+    <h2>Printable Practice Exams</h2>
+    <div id="pdfList" class="pdfList"></div>
+  </section>
+</main>
+<script src="common.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

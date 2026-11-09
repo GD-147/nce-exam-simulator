@@ -1,0 +1,130 @@
+{
+  "examId": "nce",
+  "brandName": "NCE Exam Simulator",
+  "accessPassword": "NCEPREP",
+  "examVersion": "Effective July 1, 2027",
+  "practiceChunkSize": 30,
+  "choiceKeys": [
+    "A",
+    "B",
+    "C"
+  ],
+  "examFiles": [],
+  "plannedExamFiles": [
+    "nce_exam_01.json",
+    "nce_exam_02.json",
+    "nce_exam_03.json",
+    "nce_exam_04.json",
+    "nce_exam_05.json",
+    "nce_exam_06.json",
+    "nce_exam_07.json",
+    "nce_exam_08.json",
+    "nce_exam_09.json",
+    "nce_exam_10.json",
+    "nce_exam_11.json",
+    "nce_exam_12.json",
+    "nce_exam_13.json",
+    "nce_exam_14.json",
+    "nce_exam_15.json"
+  ],
+  "scoredQuestionCount": 140,
+  "unscoredQuestionCount": 30,
+  "blueprintCountNote": "Editorial allocation; NBCC publishes percentage weights, not exact scored counts per domain.",
+  "sections": [
+    {
+      "id": "domain1",
+      "label": "Domain 1 — Professional Development & Counselor Self-Awareness",
+      "type": "mcq",
+      "domain": "Professional Development & Counselor Self-Awareness",
+      "blueprintWeightPercent": 15,
+      "questionCount": 21,
+      "timeMin": 34,
+      "modes": [
+        "practice"
+      ]
+    },
+    {
+      "id": "domain2",
+      "label": "Domain 2 — Intake & Assessment",
+      "type": "mcq",
+      "domain": "Intake & Assessment",
+      "blueprintWeightPercent": 18,
+      "questionCount": 25,
+      "timeMin": 40,
+      "modes": [
+        "practice"
+      ]
+    },
+    {
+      "id": "domain3",
+      "label": "Domain 3 — Treatment Planning & Continuity of Care",
+      "type": "mcq",
+      "domain": "Treatment Planning & Continuity of Care",
+      "blueprintWeightPercent": 15,
+      "questionCount": 21,
+      "timeMin": 34,
+      "modes": [
+        "practice"
+      ]
+    },
+    {
+      "id": "domain4",
+      "label": "Domain 4 — Provision of Counseling Interventions",
+      "type": "mcq",
+      "domain": "Provision of Counseling Interventions",
+      "blueprintWeightPercent": 20,
+      "questionCount": 28,
+      "timeMin": 45,
+      "modes": [
+        "practice"
+      ]
+    },
+    {
+      "id": "domain5",
+      "label": "Domain 5 — Indirect Client Care",
+      "type": "mcq",
+      "domain": "Indirect Client Care",
+      "blueprintWeightPercent": 12,
+      "questionCount": 17,
+      "timeMin": 27,
+      "modes": [
+        "practice"
+      ]
+    },
+    {
+      "id": "domain6",
+      "label": "Domain 6 — Legal & Ethical Compliance",
+      "type": "mcq",
+      "domain": "Legal & Ethical Compliance",
+      "blueprintWeightPercent": 20,
+      "questionCount": 28,
+      "timeMin": 45,
+      "modes": [
+        "practice"
+      ]
+    },
+    {
+      "id": "full",
+      "label": "NCE Full-Length Practice Exam",
+      "type": "mcq",
+      "questionCount": 170,
+      "timeMin": 225,
+      "scoredQuestionCount": 140,
+      "unscoredQuestionCount": 30,
+      "modes": [
+        "exam",
+        "practice"
+      ],
+      "breakConfig": {
+        "enabled": true,
+        "afterQuestion": 85,
+        "durationMinutes": 15,
+        "lockFirstHalf": true
+      }
+    }
+  ],
+  "printables": [],
+  "theme": "dark",
+  "logoPath": "../packs/nce/assets/logo.png",
+  "disclaimer": "Independent educational exam-preparation resource. Not affiliated with, sponsored, endorsed, or approved by NBCC. Contains original practice questions, not actual NCE items."
+}
