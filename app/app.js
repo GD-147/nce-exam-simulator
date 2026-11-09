@@ -8,8 +8,6 @@
     applyTheme(cfg.theme);
     $('brand').textContent = cfg.brandName;
     $('logo').src = cfg.logoPath;
-    $('version').textContent = cfg.examVersion;
-    $('disclaimer').textContent = cfg.disclaimer;
 
     const pages = {home:$('page-home'), sim:$('page-sim'), pdf:$('page-pdf')};
     function show(page) {
