@@ -1,0 +1,2724 @@
+{
+  "questions": [
+    {
+      "id": "NCE-ICC05-003",
+      "prompt": "Which documentation is most accurate?",
+      "choices": {
+        "A": "Aiden has constant severe panic disorder with no symptom-free periods.",
+        "B": "Aiden described panic as occurring \"all the time,\" then reported three episodes in the past week and worry between episodes.",
+        "C": "Aiden experienced three panic episodes, with no need to document the continuing worry or his initial description."
+      },
+      "domain": "Indirect Client Care",
+      "subdomain": "Clinical Documentation & Session Preparation",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "During a session, Aiden says, \"I have panic all the time.\" When the counselor asks for detail, Aiden reports three discrete panic episodes during the past week and ongoing worry between episodes.",
+      "correct": "B",
+      "explanation": "This entry preserves Aiden's language and the more specific frequency and time frame obtained through clarification. It does not convert colloquial wording into a diagnosis or a claim of continuous panic. Omitting the between-episode worry would also discard relevant information."
+    },
+    {
+      "id": "NCE-ICC05-020",
+      "prompt": "How should the counselor resume the meeting?",
+      "choices": {
+        "A": "Establish client-approved turn-taking and role boundaries, then direct decisions back to Riley",
+        "B": "Ask the sibling to decide because family members know Riley outside service settings",
+        "C": "Remove both supporters and complete the plan with Riley without discussing other meeting options"
+      },
+      "domain": "Indirect Client Care",
+      "subdomain": "Care Coordination & Stakeholder Collaboration",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "Riley has authorized both a sibling and a peer specialist to attend a support-planning meeting. They repeatedly interrupt one another, and Riley becomes quiet. Riley tells the counselor during a break that both perspectives matter but that Riley wants to make the final decisions.",
+      "correct": "A",
+      "explanation": "A structured meeting can retain both supports while restoring Riley's participation and decision-making role. Riley has said both perspectives matter, so immediate exclusion would not reflect the stated preference. Giving the sibling control would also displace Riley's authority."
+    },
+    {
+      "id": "NCE-LEC05-034",
+      "prompt": "What should the clinic do?",
+      "choices": {
+        "A": "Provide a secure accessible alternative while the vendor remediates the portal, without requiring password sharing",
+        "B": "Ask the sibling to use the client's account until the next software release",
+        "C": "Restrict the client permanently to postal mail because accessibility support is optional"
+      },
+      "domain": "Legal & Ethical Compliance",
+      "subdomain": "Technology, AI & Telemental Health Compliance",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "After a portal update, a blind client's screen reader can no longer navigate messages or forms. The vendor suggests that the client give a sibling the portal password. Clinic policy prohibits credential sharing and requires accessible, confidentiality-protective access.",
+      "correct": "A",
+      "explanation": "Accessibility and confidentiality should be preserved together rather than forcing the client to surrender personal credentials. A secure interim method supports current access while the practice corrects the portal defect."
+    },
+    {
+      "id": "NCE-ICC05-012",
+      "prompt": "What should the counselor do?",
+      "choices": {
+        "A": "Document Evan's exact report and help him promptly explore prescriber- or pharmacist-approved affordable options and legitimate assistance",
+        "B": "Recommend taking the medication every other day until Evan can afford a refill",
+        "C": "Tell Evan to replace the medication with a lower-cost nonprescription product"
+      },
+      "domain": "Indirect Client Care",
+      "subdomain": "Referral, Medication & Language Support",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "Evan tells his counselor that a medication copayment doubled and that he has begun taking the medication less often to make it last. He reports no current symptoms. A written authorization permits coordination with the prescriber and pharmacist.",
+      "correct": "A",
+      "explanation": "The cost barrier is already changing how Evan takes the medication and warrants prompt coordination with responsible professionals. They can identify an approved alternative, assistance pathway, or other solution. The counselor should not design a reduced dosing schedule or substitute a nonprescription product."
+    },
+    {
+      "id": "NCE-PCI05-006",
+      "prompt": "Which intervention best supports the client?",
+      "choices": {
+        "A": "Encourage the client to tell the full story once publicly so requests will stop.",
+        "B": "Advise ignoring every contact because any response will worsen distress.",
+        "C": "Help the client define privacy boundaries, choose whether to designate one trusted contact, and rehearse a brief response to unwanted requests."
+      },
+      "domain": "Provision of Counseling Interventions",
+      "subdomain": "Crisis Response, Psychoeducation & Client Empowerment",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "After surviving a highly publicized assault, a client receives repeated calls from reporters and distant acquaintances. The client is safe but feels unable to decide whom to answer and says, “Everyone wants part of the story.”",
+      "correct": "C",
+      "explanation": "The intervention restores control over access to the client and provides a usable boundary response without forcing public disclosure. Universal silence may be an option, but the counselor should support the client in choosing rather than prescribe it."
+    },
+    {
+      "id": "NCE-ICC05-021",
+      "prompt": "What should the counselor do?",
+      "choices": {
+        "A": "Flush the tablets so Leah does not accidentally take them",
+        "B": "Store the bottle in the counseling office until several clients have medication to discard",
+        "C": "Decline to take possession and direct Leah to the verified pharmacy take-back process"
+      },
+      "domain": "Indirect Client Care",
+      "subdomain": "Referral, Medication & Language Support",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "Leah brings a bottle of medication that her prescriber discontinued and asks the counselor to dispose of the remaining tablets. A nearby pharmacy participates in a verified medication take-back program.",
+      "correct": "C",
+      "explanation": "A verified take-back program provides an appropriate disposal route without making the counselor responsible for storing or destroying medication. Flushing may be inappropriate, and accumulating medication in the office introduces avoidable handling and storage concerns. The counselor can support the linkage while leaving disposal to the designated program."
+    },
+    {
+      "id": "NCE-LEC05-013",
+      "prompt": "What should the records manager do?",
+      "choices": {
+        "A": "Destroy the originals because the sample contains most of each chart",
+        "B": "Keep only a short clinical summary for any chart with scanning defects",
+        "C": "Stop destruction, reconcile and verify the scans, and authorize disposal only after quality requirements are met"
+      },
+      "domain": "Legal & Ethical Compliance",
+      "subdomain": "Privacy, Records & Documentation Compliance",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A vendor is scanning archived paper charts. The retention policy permits destruction of originals only after the electronic images are confirmed complete, legible, correctly indexed, and retrievable. A sample audit finds missing reverse sides and pages hidden by clips.",
+      "correct": "C",
+      "explanation": "The sample has already shown that the electronic copy is incomplete, so destroying originals would risk permanent record loss. Verification of completeness, legibility, indexing, and retrieval must occur before disposal under the stated policy."
+    },
+    {
+      "id": "NCE-TPC05-007",
+      "prompt": "How should the counselor use the assessment results in the plan?",
+      "choices": {
+        "A": "Develop exploratory interviews and option-comparison tasks organized around the client's stated values",
+        "B": "Select the occupation with the highest inventory score and make application the first objective",
+        "C": "Repeat the inventory until one occupational category clearly exceeds all others"
+      },
+      "domain": "Treatment Planning & Continuity of Care",
+      "subdomain": "Treatment Planning",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A client seeking career counseling has interest-inventory results spanning several fields. Interviews show that autonomy, predictable hours, and opportunities to learn are more important to the client than a particular occupation. The client wants to compare realistic options rather than receive a single career recommendation.",
+      "correct": "A",
+      "explanation": "The broad interest pattern is useful when combined with the client's priorities and real-world exploration. Treating the highest score as a directive or repeating the inventory until it produces one answer would overstate what the assessment can decide."
+    },
+    {
+      "id": "NCE-PDS05-025",
+      "prompt": "What response best demonstrates professional self-awareness?",
+      "choices": {
+        "A": "Regulate the defensiveness, ask for behavioral examples, compare the feedback with session evidence, and develop a testable improvement plan",
+        "B": "Continue the current style until multiple clients complain because one supervisor's view may be subjective",
+        "C": "Ask for a different supervisor who agrees with the counselor's preferred style"
+      },
+      "domain": "Professional Development & Counselor Self-Awareness",
+      "subdomain": "Counselor Self-Awareness",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "During supervision, a counselor receives specific feedback that sessions have become overly directive. The counselor feels embarrassed, argues that clients need firm guidance, and wants to dismiss the feedback without reviewing examples.",
+      "correct": "A",
+      "explanation": "Specific examples and session evidence allow the counselor to evaluate feedback rather than accept or reject it reflexively. A measurable plan turns supervision into learning while preserving room to examine whether direction is appropriate for particular clients."
+    },
+    {
+      "id": "NCE-PCI05-011",
+      "prompt": "What should the counselor do?",
+      "choices": {
+        "A": "Support the student in identifying safe contacts, reviewing privacy options, and deciding whether, when, and how to communicate with others.",
+        "B": "Encourage immediate disclosure to all family members so the student controls the story.",
+        "C": "Contact the student’s family to request that they respond supportively."
+      },
+      "domain": "Provision of Counseling Interventions",
+      "subdomain": "Crisis Response, Psychoeducation & Client Empowerment",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A college student has been outed as gay by a peer without consent. The student is safe but fears that family members will learn through social media and says, “I need to decide who hears this from me.”",
+      "correct": "A",
+      "explanation": "The student has experienced a loss of control over personal information, so the intervention restores choice and supports safety. Immediate broad disclosure or counselor contact with family would repeat the removal of the student’s control."
+    },
+    {
+      "id": "NCE-INA05-030",
+      "prompt": "What should the counselor do?",
+      "choices": {
+        "A": "Disclose the anticipated departure and explain the available continuity options before the client chooses how to begin",
+        "B": "Conceal the departure until the final session so the client does not decline services",
+        "C": "Promise long-term availability even though the counselor knows that promise cannot be kept"
+      },
+      "domain": "Intake & Assessment",
+      "subdomain": "Intake",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "At intake, a counselor knows the counselor will leave the agency in five weeks. The client is seeking long-term counseling, and the agency can offer either short-term work with this counselor followed by transfer or immediate assignment to another clinician.",
+      "correct": "A",
+      "explanation": "The known five-week limit is material to a client seeking long-term care. Early disclosure permits an informed choice between short-term work with transfer and immediate assignment to a clinician who can provide continuity."
+    },
+    {
+      "id": "NCE-INA05-012",
+      "prompt": "What is the best intake action?",
+      "choices": {
+        "A": "Explain the counselor's scope and facilitate referral to a qualified specialist rather than implying expertise the counselor does not have",
+        "B": "Accept the case and learn the specialty through trial and error during sessions",
+        "C": "Avoid discussing qualifications because clients should not influence provider selection"
+      },
+      "domain": "Intake & Assessment",
+      "subdomain": "Intake",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A prospective client requests treatment for a complex eating disorder and assumes the assigned counselor is an eating-disorder specialist. The counselor has generalist training but lacks the competence and supervision needed for this presentation, while qualified specialty providers are available locally.",
+      "correct": "A",
+      "explanation": "The requested presentation exceeds the counselor's stated competence, and qualified specialty care is available. Accurate role disclosure and referral protect service quality without misleading the client about expertise."
+    },
+    {
+      "id": "NCE-LEC05-023",
+      "prompt": "How should the counselor proceed?",
+      "choices": {
+        "A": "Adapt the consent discussion, assess understanding, and obtain the client's decision unless authorized representation is required",
+        "B": "Require a parent to consent because the client has an intellectual disability diagnosis",
+        "C": "Refuse services because simplified consent materials cannot support a valid decision"
+      },
+      "domain": "Legal & Ethical Compliance",
+      "subdomain": "Legal, Regulatory & Ethical Duties",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "An adult with a mild intellectual disability requests counseling and demonstrates choices when information is explained in plain language. No guardian or other legal representative is documented. Applicable law presumes adult capacity and requires accessible consent; a representative is involved only when legally authorized and necessary.",
+      "correct": "A",
+      "explanation": "The supplied law presumes adult capacity and favors accessible, supported decision-making. A diagnosis alone does not authorize a parent to decide or justify denying the client an opportunity to give informed consent."
+    },
+    {
+      "id": "NCE-INA05-011",
+      "prompt": "Which diagnosis is best supported?",
+      "choices": {
+        "A": "Specific phobia",
+        "B": "Panic disorder",
+        "C": "Generalized anxiety disorder"
+      },
+      "domain": "Intake & Assessment",
+      "subdomain": "Assessment",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "For three months, a client has experienced recurrent unexpected surges of intense fear with palpitations, sweating, trembling, shortness of breath, and fear of dying. After the first episode, the client spent more than a month worrying about another attack and stopped exercising to avoid triggering sensations. Medical and substance causes have been ruled out.",
+      "correct": "B",
+      "explanation": "The client has recurrent unexpected panic attacks followed by more than one month of persistent concern and maladaptive behavioral change. The pattern is not limited to one feared object and is not the broad chronic worry of generalized anxiety disorder."
+    },
+    {
+      "id": "NCE-PCI05-005",
+      "prompt": "How should the counselor respond?",
+      "choices": {
+        "A": "Use language that fits the client’s understanding while remaining transparent about the counseling service and its purpose.",
+        "B": "Insist on clinical terminology so the client learns to accept a mental health identity.",
+        "C": "Describe counseling as an unrelated wellness service so the client can avoid informed-consent concerns."
+      },
+      "domain": "Provision of Counseling Interventions",
+      "subdomain": "Evidence-Based & Culturally Responsive Interventions",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A client from a rural community says the phrase “mental health treatment” carries strong stigma locally and prefers to describe counseling goals as managing stress and improving relationships. The requested goals remain within counseling scope.",
+      "correct": "A",
+      "explanation": "Responsive language can reduce stigma and improve engagement without obscuring informed consent. Imposing an identity label is unnecessary, while disguising counseling as an unrelated service is not transparent."
+    },
+    {
+      "id": "NCE-LEC05-033",
+      "prompt": "What should the practice leader do?",
+      "choices": {
+        "A": "Evacuate by car because leaving the area is always safer than remaining indoors",
+        "B": "Activate the shelter-in-place plan, account for people, and follow official instructions until the all-clear",
+        "C": "Continue appointments in exterior offices so clients are not alarmed by the emergency response"
+      },
+      "domain": "Legal & Ethical Compliance",
+      "subdomain": "Billing, Business Practices & Emergency Readiness",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A tanker accident releases a hazardous plume near a counseling center. Local authorities order occupants to shelter in place. The written plan directs staff to move everyone to interior rooms, shut ventilation if instructed, account for occupants, and monitor official alerts. A staff member wants everyone to drive away immediately.",
+      "correct": "B",
+      "explanation": "Evacuating into the hazardous plume would contradict the specific public-safety order and written plan. Sheltering, accounting for occupants, and monitoring authorities are the appropriate emergency actions under the supplied facts."
+    },
+    {
+      "id": "NCE-LEC05-032",
+      "prompt": "Which statement best describes informed consent in ongoing counseling?",
+      "choices": {
+        "A": "It is revisited when material services, risks, fees, technology, or other terms change, with understanding documented as appropriate",
+        "B": "It is complete after the initial signature and should not be reopened unless a court orders it",
+        "C": "It needs to be discussed again only when the client independently asks for another explanation"
+      },
+      "domain": "Legal & Ethical Compliance",
+      "subdomain": "Legal, Regulatory & Ethical Duties",
+      "unscored": true,
+      "scenarioBased": false,
+      "scenarioContext": "",
+      "correct": "A",
+      "explanation": "Informed consent is a continuing communication process, not merely an intake signature. Material changes should be explained so the client can make an updated, meaningful choice."
+    },
+    {
+      "id": "NCE-TPC05-003",
+      "prompt": "How does a treatment barrier differ from a contraindication?",
+      "choices": {
+        "A": "A barrier always requires ending the goal, whereas a contraindication can be ignored with client consent",
+        "B": "A barrier may call for added support or adaptation, whereas a contraindication may make a specific approach unsafe or unsuitable",
+        "C": "A barrier concerns motivation, whereas a contraindication means the client is resistant to treatment"
+      },
+      "domain": "Treatment Planning & Continuity of Care",
+      "subdomain": "Treatment Planning",
+      "unscored": false,
+      "scenarioBased": false,
+      "scenarioContext": "",
+      "correct": "B",
+      "explanation": "A barrier can often be reduced through access changes, supports, pacing, or sequencing while the goal remains appropriate. A contraindication concerns the suitability or safety of a particular approach under the current conditions, and neither concept simply labels client resistance."
+    },
+    {
+      "id": "NCE-ICC05-014",
+      "prompt": "Which action most clearly distinguishes care coordination from simply giving a referral?",
+      "choices": {
+        "A": "Give the client several telephone numbers and place responsibility for all follow-up on the client",
+        "B": "Contact providers without client authorization so services can begin more quickly",
+        "C": "With client authorization, align relevant roles and information and establish follow-up around the client's goal"
+      },
+      "domain": "Indirect Client Care",
+      "subdomain": "Care Coordination & Stakeholder Collaboration",
+      "unscored": false,
+      "scenarioBased": false,
+      "scenarioContext": "",
+      "correct": "C",
+      "explanation": "Coordination adds purposeful communication, role alignment, and follow-through to the referral process. It remains centered on the client's goal and authorization. A list of telephone numbers alone does not create a coordinated plan."
+    },
+    {
+      "id": "NCE-LEC05-019",
+      "prompt": "What is the counselor's best response?",
+      "choices": {
+        "A": "Require the client to bring a friend who can type summaries during the session",
+        "B": "Refuse captioning because all automated text creates an unacceptable record",
+        "C": "Explain the feature's limits and privacy, confirm the client's preference, and monitor caption accuracy during use"
+      },
+      "domain": "Legal & Ethical Compliance",
+      "subdomain": "Technology, AI & Telemental Health Compliance",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A hard-of-hearing client requests live captions for telehealth. The practice's approved platform can generate captions within the session without retaining a transcript, and the feature has passed security review.",
+      "correct": "C",
+      "explanation": "The approved, nonretained caption feature can support accessible participation when the client understands its limits. Monitoring accuracy preserves clinical accountability without forcing the client to use an informal companion or rejecting an appropriate technology."
+    },
+    {
+      "id": "NCE-ICC05-005",
+      "prompt": "Which practice best reduces ambiguity from abbreviations in clinical documentation?",
+      "choices": {
+        "A": "Shorten every recurring phrase so notes can be completed as quickly as possible",
+        "B": "Create personal shorthand and rely on coworkers to infer its meaning from context",
+        "C": "Use only approved, commonly understood abbreviations and define any term that could have more than one meaning"
+      },
+      "domain": "Indirect Client Care",
+      "subdomain": "Clinical Documentation & Session Preparation",
+      "unscored": false,
+      "scenarioBased": false,
+      "scenarioContext": "",
+      "correct": "C",
+      "explanation": "Standardized and unambiguous language allows future readers to interpret the note consistently. Personal shorthand creates avoidable uncertainty, even when coworkers can sometimes infer its meaning. Efficiency does not justify reducing documentation clarity."
+    },
+    {
+      "id": "NCE-LEC05-030",
+      "prompt": "What should the counselor do?",
+      "choices": {
+        "A": "Wait for the client to regain consciousness before opening any restricted information",
+        "B": "Use the authorized override, document the emergency reason, and review only information relevant to care",
+        "C": "Ask a coworker to open the record under the coworker's credentials so the counselor is not audited"
+      },
+      "domain": "Legal & Ethical Compliance",
+      "subdomain": "Privacy, Records & Documentation Compliance",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "An emergency department calls the on-call counselor about an unconscious established client. A segmented EHR record is restricted, but policy permits a logged \"break-glass\" override for direct emergency treatment, with a documented reason and access limited to relevant information.",
+      "correct": "B",
+      "explanation": "The policy specifically permits audited emergency access for direct treatment. Waiting could impair care, while using another person's credentials would defeat individual accountability and the break-glass audit."
+    },
+    {
+      "id": "NCE-INA05-026",
+      "prompt": "Which disposition is most appropriate?",
+      "choices": {
+        "A": "Schedule routine weekly counseling because high energy alone does not affect level of care",
+        "B": "Arrange urgent psychiatric evaluation at a level of care able to address severe impairment and immediate safety",
+        "C": "Wait for a self-report personality inventory before determining whether intervention is needed"
+      },
+      "domain": "Intake & Assessment",
+      "subdomain": "Assessment",
+      "unscored": true,
+      "scenarioBased": true,
+      "scenarioContext": "A client has slept about two hours total in six days, speaks continuously, expresses grandiose beliefs, has spent the family's savings, and has driven at extreme speeds. The client rejects outpatient help and says ordinary safety limits do not apply.",
+      "correct": "B",
+      "explanation": "Profound sleep loss, grandiosity, financial devastation, dangerous driving, and refusal of limits indicate a severe manic presentation with acute safety concerns. Routine counseling or delayed testing would not provide an adequate level of care."
+    },
+    {
+      "id": "NCE-PCI05-029",
+      "prompt": "Which intervention is most appropriate?",
+      "choices": {
+        "A": "Identify likely cues, rehearse refusal and coping responses, and create a plan for resuming the goal promptly after any lapse.",
+        "B": "Advise skipping every future event where smoking might occur.",
+        "C": "Emphasize that one cigarette would erase the progress already made."
+      },
+      "domain": "Provision of Counseling Interventions",
+      "subdomain": "Evidence-Based & Culturally Responsive Interventions",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A client who stopped smoking three months ago will attend a reunion where several close friends smoke. The client wants to protect progress and is willing to plan for a possible lapse without treating it as total failure.",
+      "correct": "A",
+      "explanation": "Relapse-prevention planning anticipates triggers, practices responses, and prevents a lapse from becoming an all-or-nothing return to smoking. Avoiding every social risk is unnecessarily restrictive, while treating one cigarette as total failure increases abstinence-violation thinking."
+    },
+    {
+      "id": "NCE-ICC05-018",
+      "prompt": "Which feature makes a referral list more resilient during service disruptions?",
+      "choices": {
+        "A": "Dependence on one preferred provider for each need so counselors always know whom to call",
+        "B": "Multiple independently verified pathways, including practical backup options and access instructions",
+        "C": "A large national list added without local verification or information about how clients enter services"
+      },
+      "domain": "Indirect Client Care",
+      "subdomain": "Referral, Medication & Language Support",
+      "unscored": true,
+      "scenarioBased": false,
+      "scenarioContext": "",
+      "correct": "B",
+      "explanation": "Service disruptions can close or overload a single pathway, so verified alternatives make the directory more usable. Access instructions help counselors and clients shift routes efficiently. A large unverified list may look comprehensive while offering little reliable access."
+    },
+    {
+      "id": "NCE-PCI05-014",
+      "prompt": "Which response is most therapeutic?",
+      "choices": {
+        "A": "“You’re concerned I see you as weak. What have you noticed here, and where else have you encountered that judgment?”",
+        "B": "“I do not think you are weak, so you do not need to worry about being judged here.”",
+        "C": "“That sounds like transference from an earlier relationship rather than something occurring between us.”"
+      },
+      "domain": "Provision of Counseling Interventions",
+      "subdomain": "Core Counseling Skills & Therapeutic Alliance",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A client says, “You probably think staying in this relationship means I’m weak.” The counselor does not hold that view and is uncertain whether the statement reflects a prior experience, a current cue, or both.",
+      "correct": "A",
+      "explanation": "The counselor explores both current relational evidence and broader experience without denying the concern or imposing an interpretation. Immediate reassurance may close inquiry into a belief that is important inside and outside counseling."
+    },
+    {
+      "id": "NCE-PDS05-023",
+      "prompt": "What is the best response?",
+      "choices": {
+        "A": "Wait for an objective error before requesting changes because difficult feelings are expected in this work",
+        "B": "Use supervision to assess compassion fatigue, review case distribution and client impact, and establish targeted professional and personal supports",
+        "C": "Tell clients that repeated reconciliation is causing counselor fatigue so they understand its effect on helpers"
+      },
+      "domain": "Professional Development & Counselor Self-Awareness",
+      "subdomain": "Counselor Self-Awareness",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A counselor assigned many high-intensity domestic violence cases has begun avoiding case preparation, feeling irritated when clients return to partners, and mentally counting the minutes until sessions end. The counselor has not yet missed an appointment.",
+      "correct": "B",
+      "explanation": "Irritation, avoidance, and emotional disengagement are affecting readiness even before a missed appointment occurs. Supervision and case review can address exposure and client impact without blaming clients for relationship decisions."
+    },
+    {
+      "id": "NCE-LEC05-015",
+      "prompt": "A secure messaging system automatically deletes all messages after 30 days, but practice policy requires preservation of clinically significant exchanges. What is the best implementation approach?",
+      "choices": {
+        "A": "Warn clients that no message will become part of the record and use the system unchanged",
+        "B": "Establish approved archiving and documentation workflows that preserve required clinical content before use",
+        "C": "Have counselors save screenshots of important messages on their personal phones"
+      },
+      "domain": "Legal & Ethical Compliance",
+      "subdomain": "Technology, AI & Telemental Health Compliance",
+      "unscored": true,
+      "scenarioBased": false,
+      "scenarioContext": "",
+      "correct": "B",
+      "explanation": "Automatic deletion conflicts with the practice's obligation to retain clinically significant communications. An approved preservation workflow resolves that conflict without placing protected screenshots on personal devices."
+    },
+    {
+      "id": "NCE-INA05-025",
+      "prompt": "Which diagnosis is most consistent with the presentation?",
+      "choices": {
+        "A": "Illness anxiety disorder",
+        "B": "Anorexia nervosa",
+        "C": "Body dysmorphic disorder"
+      },
+      "domain": "Intake & Assessment",
+      "subdomain": "Assessment",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A client spends several hours daily examining a slight facial asymmetry that others barely notice, repeatedly seeks reassurance, and avoids work meetings because of shame. The concern is not focused on body weight or fat.",
+      "correct": "C",
+      "explanation": "The client is preoccupied with a slight or unobservable appearance flaw, performs repetitive checking and reassurance seeking, and has marked impairment. The concern is not about illness or body fat and therefore does not fit the distractor diagnoses."
+    },
+    {
+      "id": "NCE-LEC05-007",
+      "prompt": "What should the clinic do?",
+      "choices": {
+        "A": "Leave access active until the adult client's next scheduled appointment",
+        "B": "Send the adult client's new password to the parent to preserve continuity",
+        "C": "Disable the proxy access promptly and ask the adult client whether new authorization is desired"
+      },
+      "domain": "Legal & Ethical Compliance",
+      "subdomain": "Privacy, Records & Documentation Compliance",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A client turns 18 today. The clinic's proxy-access rule ends parental portal access automatically at adulthood unless the adult client signs a new authorization. A software update failed to remove the parent's existing access overnight.",
+      "correct": "C",
+      "explanation": "The client's adulthood ends the existing proxy authority under the stated rule. Promptly disabling access protects the new adult's privacy while preserving the option to authorize the parent again by choice."
+    },
+    {
+      "id": "NCE-PDS05-024",
+      "prompt": "Which professional development plan is best?",
+      "choices": {
+        "A": "Use the assumptions as starting points because military experience produces predictable counseling needs",
+        "B": "Refer all veterans to former military counselors because civilian counselors cannot develop adequate understanding",
+        "C": "Obtain current military-culture education, examine assumptions, seek consultation, and assess each client's individual experience"
+      },
+      "domain": "Professional Development & Counselor Self-Awareness",
+      "subdomain": "Professional Development",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A community clinic begins serving more military veterans and families. A counselor has no military cultural training and notices assuming that every veteran has combat trauma and prefers a highly structured counseling style.",
+      "correct": "C",
+      "explanation": "Military service is diverse and does not establish combat exposure or a uniform counseling preference. Education, consultation, and individualized assessment develop responsiveness without stereotyping or assuming that only veterans can provide competent care."
+    },
+    {
+      "id": "NCE-PDS05-018",
+      "prompt": "What is the best fit decision?",
+      "choices": {
+        "A": "Conduct the session with headphones because the counselor will not hear the client's voice through speakers",
+        "B": "Ask the client to speak quietly and avoid the most sensitive topics during the session",
+        "C": "Arrange a private alternative or reschedule with appropriate continuity rather than use a setting that cannot support privacy"
+      },
+      "domain": "Professional Development & Counselor Self-Awareness",
+      "subdomain": "Counselor Self-Awareness",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A telehealth counselor's usual private office is temporarily unusable. The only available room has thin walls, and conversations in adjacent offices are clearly audible. A client with a sensitive trauma history is scheduled within the hour.",
+      "correct": "C",
+      "explanation": "Headphones prevent sound from a device from being broadcast but do not stop the counselor's voice from passing through thin walls. A genuinely private location or careful rescheduling is necessary for a session involving sensitive information."
+    },
+    {
+      "id": "NCE-PCI05-001",
+      "prompt": "What is the counselor’s best intervention?",
+      "choices": {
+        "A": "Interpret the difficulty remembering as denial of the diagnosis.",
+        "B": "Help the client identify the most urgent questions, write them in the client’s words, and choose a support person for the next conversation.",
+        "C": "Explain the medical condition so the client does not need to ask the physician again."
+      },
+      "domain": "Provision of Counseling Interventions",
+      "subdomain": "Crisis Response, Psychoeducation & Client Empowerment",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "In an integrated-care clinic, a client has just received a serious medical diagnosis. The client is safe but says, “I heard the doctor talking, but none of it stayed in my head.” The client wants help preparing for the next medical conversation.",
+      "correct": "B",
+      "explanation": "Acute stress can impair retention, so organizing client-generated questions and support makes the next medical interaction more usable. Interpreting denial is premature, and the counselor should not replace qualified medical explanation."
+    },
+    {
+      "id": "NCE-LEC05-017",
+      "prompt": "How should the note be handled?",
+      "choices": {
+        "A": "The supervisor should use personal credentials, make an attributed addition or co-signature, and preserve the original audit history",
+        "B": "The supervisor should keep using the associate's account so the note displays only one author",
+        "C": "The associate should delete the original and create a new note containing the supervisor's language"
+      },
+      "domain": "Legal & Ethical Compliance",
+      "subdomain": "Privacy, Records & Documentation Compliance",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A supervisor opens an associate's note by using the associate's password, rewrites the plan, and then asks the associate to submit it. The EHR policy requires the original author and every supervisory addition to remain identifiable in the audit trail.",
+      "correct": "A",
+      "explanation": "Individual authentication and attributed supervisory changes preserve accountability for who authored each part of the record. Shared credentials or deletion would make the audit trail inaccurate and obscure the associate's original entry."
+    },
+    {
+      "id": "NCE-LEC05-021",
+      "prompt": "What should the privacy officer recommend?",
+      "choices": {
+        "A": "Keep both fields because additional identifiers might become useful in a future dispute",
+        "B": "Remove the unnecessary requirements and securely address previously collected excess data under policy",
+        "C": "Make the fields mandatory but add a notice that the information may never be used"
+      },
+      "domain": "Legal & Ethical Compliance",
+      "subdomain": "Privacy, Records & Documentation Compliance",
+      "unscored": true,
+      "scenarioBased": true,
+      "scenarioContext": "A redesigned counseling intake form requires every client to enter a Social Security number and upload a driver's license. The practice has no payer, clinical, or legal need for either item, and its privacy program requires limiting collected data to what is necessary.",
+      "correct": "B",
+      "explanation": "Collecting sensitive identifiers without a defined need creates avoidable privacy and security risk. A notice does not cure unnecessary mandatory collection, while removal and appropriate handling of existing data follow the stated minimization program."
+    },
+    {
+      "id": "NCE-TPC05-016",
+      "prompt": "What is the main purpose of a planned follow-up contact after discharge?",
+      "choices": {
+        "A": "To check maintenance and access needs and determine whether additional support or reentry is indicated",
+        "B": "To continue routine counseling informally without reopening or revising the treatment relationship",
+        "C": "To verify that the client follows every recommendation exactly as the counselor originally wrote it"
+      },
+      "domain": "Treatment Planning & Continuity of Care",
+      "subdomain": "Continuity of Care",
+      "unscored": false,
+      "scenarioBased": false,
+      "scenarioContext": "",
+      "correct": "A",
+      "explanation": "A planned follow-up evaluates how the client is functioning after discharge and whether the aftercare plan remains sufficient. It does not silently continue treatment or function as surveillance of perfect compliance."
+    },
+    {
+      "id": "NCE-PCI05-033",
+      "prompt": "Which statement best describes counselor empathy?",
+      "choices": {
+        "A": "Feeling the same emotion as the client with equal intensity.",
+        "B": "Agreeing that the client’s interpretation is objectively correct.",
+        "C": "Seeking to understand the client’s experience from the client’s perspective and communicating that understanding."
+      },
+      "domain": "Provision of Counseling Interventions",
+      "subdomain": "Core Counseling Skills & Therapeutic Alliance",
+      "unscored": false,
+      "scenarioBased": false,
+      "scenarioContext": "",
+      "correct": "C",
+      "explanation": "Empathy involves accurate perspective taking and responsive communication while preserving awareness that the experience belongs to the client. It does not require emotional equivalence or agreement with every conclusion."
+    },
+    {
+      "id": "NCE-PDS05-007",
+      "prompt": "Which professional education is most important before recommending the software?",
+      "choices": {
+        "A": "Training in how to position cameras so the software captures every facial movement",
+        "B": "Independent study of validity, bias, disability and cultural limitations, privacy, and appropriate human interpretation",
+        "C": "Instruction from the vendor on matching each emotion label to a counseling intervention"
+      },
+      "domain": "Professional Development & Counselor Self-Awareness",
+      "subdomain": "Professional Development",
+      "unscored": true,
+      "scenarioBased": true,
+      "scenarioContext": "A clinic is considering software that claims to infer clients' emotions from facial movements during video sessions. The counselor has not studied the scientific validity of emotion-recognition systems or their performance across cultures and disabilities.",
+      "correct": "B",
+      "explanation": "Inferring emotion from facial movement raises major validity and fairness questions that camera placement cannot resolve. Independent education helps the counselor evaluate scientific support, population limitations, and professional risks rather than learning only how to operate the product."
+    },
+    {
+      "id": "NCE-PCI05-032",
+      "prompt": "What should the counselor do?",
+      "choices": {
+        "A": "Clarify the client’s goals and consent, then include the aunt in the agreed skill-practice role.",
+        "B": "Decline because involving family would undermine the client’s individual autonomy.",
+        "C": "Give the aunt full information so the aunt can monitor the client’s compliance."
+      },
+      "domain": "Provision of Counseling Interventions",
+      "subdomain": "Evidence-Based & Culturally Responsive Interventions",
+      "unscored": true,
+      "scenarioBased": true,
+      "scenarioContext": "A client values collective family decision making and asks to bring a trusted aunt to one session to help practice a new stress-management routine at home. The client wants to decide what the aunt hears and does.",
+      "correct": "A",
+      "explanation": "Client-directed family involvement can align with collective values and help generalize a coping routine. Consent should define what is shared and what role the aunt has rather than granting unrestricted monitoring authority."
+    },
+    {
+      "id": "NCE-PDS05-005",
+      "prompt": "What is the most useful purpose of maintaining a professional development record beyond documenting credit hours?",
+      "choices": {
+        "A": "To connect learning goals, activities, feedback, and practice changes so future development can be evaluated",
+        "B": "To demonstrate that attendance at training establishes competence in every topic listed on a certificate",
+        "C": "To replace supervision notes with a complete personal record of client-related learning"
+      },
+      "domain": "Professional Development & Counselor Self-Awareness",
+      "subdomain": "Professional Development",
+      "unscored": false,
+      "scenarioBased": false,
+      "scenarioContext": "",
+      "correct": "A",
+      "explanation": "A thoughtful record can show how learning relates to performance and help identify next development needs. Attendance records alone do not establish competence, and professional development documentation does not replace supervision records."
+    },
+    {
+      "id": "NCE-TPC05-025",
+      "prompt": "Which initial plan is most appropriate?",
+      "choices": {
+        "A": "Develop functional goals based on the presenting problems and client priorities without inventing a diagnosis",
+        "B": "Delay all treatment planning until symptoms become severe enough to meet diagnostic criteria",
+        "C": "Select the closest depressive diagnosis so that measurable objectives can be written"
+      },
+      "domain": "Treatment Planning & Continuity of Care",
+      "subdomain": "Treatment Planning",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A client seeks counseling after a difficult divorce and has sleep and concentration problems that do not meet criteria for a mental disorder. The client wants help restoring routines and functioning and understands that counseling can address the concern without assigning a diagnosis.",
+      "correct": "A",
+      "explanation": "Counseling goals can address real distress and impairment even when no mental disorder is established. Delaying care or assigning an unsupported diagnosis would misrepresent the available information."
+    },
+    {
+      "id": "NCE-TPC05-026",
+      "prompt": "Which objective is most appropriate?",
+      "choices": {
+        "A": "The client will complete one enjoyable activity every day regardless of migraine severity for six weeks",
+        "B": "The client will participate more often whenever symptoms permit and discuss the experience later",
+        "C": "The client will complete two chosen brief activities in each seven-day period for six weeks and record completion"
+      },
+      "domain": "Treatment Planning & Continuity of Care",
+      "subdomain": "Treatment Planning",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A client with episodic migraine wants to resume enjoyable activities but cannot predict which days will involve a severe flare. The client can usually complete two brief activities during any seven-day period and wants an objective that remains measurable without requiring daily performance.",
+      "correct": "C",
+      "explanation": "The objective remains specific, measurable, and time-limited while accommodating an unpredictable episodic condition. A rigid daily requirement may be unattainable during flares, whereas “more often” lacks a defined target."
+    },
+    {
+      "id": "NCE-PDS05-001",
+      "prompt": "Which professional development arrangement is most appropriate?",
+      "choices": {
+        "A": "Use the operations manager because any formal evaluation qualifies as clinical supervision",
+        "B": "Arrange qualified clinical supervision for counseling practice while retaining administrative oversight through the manager",
+        "C": "Use informal peer discussion because clinical supervision is unnecessary when an agency evaluates productivity"
+      },
+      "domain": "Professional Development & Counselor Self-Awareness",
+      "subdomain": "Professional Development",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A recent graduate is told that the agency operations manager will provide all required supervision. The manager evaluates attendance and productivity but is not clinically trained and does not review counseling practice. A qualified clinical supervisor is available through a partner agency.",
+      "correct": "B",
+      "explanation": "Productivity management and clinical supervision have different functions. The recent graduate needs a qualified professional to review counseling practice and development while the operations manager may continue appropriate administrative oversight."
+    },
+    {
+      "id": "NCE-PDS05-004",
+      "prompt": "What is the most appropriate response?",
+      "choices": {
+        "A": "Confirm the relationship briefly so observers do not think the counselor is being unfriendly",
+        "B": "Protect the client's privacy in the moment and discuss future public encounters and the counselor's reaction in the next session",
+        "C": "Avoid all future community events because any public contact with a client creates an unavoidable violation"
+      },
+      "domain": "Professional Development & Counselor Self-Awareness",
+      "subdomain": "Counselor Self-Awareness",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "At a small-town religious service, a client approaches the counselor and says loudly, \"This is the person who helps me with my marriage.\" The counselor feels embarrassed and considers explaining the professional relationship to nearby friends.",
+      "correct": "B",
+      "explanation": "The client controls whether to disclose the counseling relationship, and the counselor should not add information to manage personal embarrassment. Later discussion can clarify preferences for future encounters and help the counselor reflect on the reaction."
+    },
+    {
+      "id": "NCE-LEC05-009",
+      "prompt": "What should the practice do?",
+      "choices": {
+        "A": "Wait until after the intake because the final treatment frequency is not yet known",
+        "B": "Provide the required written estimate on time, include expected charges, and retain appropriate documentation",
+        "C": "Give a verbal hourly rate now and issue the written estimate only if the client disputes a bill"
+      },
+      "domain": "Legal & Ethical Compliance",
+      "subdomain": "Billing, Business Practices & Emergency Readiness",
+      "unscored": true,
+      "scenarioBased": true,
+      "scenarioContext": "An uninsured client schedules an intake eight business days in advance and will pay personally. The applicable federal rule requires a written good faith estimate within one business day when services are scheduled three to nine business days ahead. The manager wants to provide a price range after the first visit.",
+      "correct": "B",
+      "explanation": "The supplied timing rule applies because the uninsured client scheduled eight business days ahead. A verbal range after care would not satisfy the written, prospective estimate requirement."
+    },
+    {
+      "id": "NCE-INA05-004",
+      "prompt": "What is a ceiling effect in an assessment?",
+      "choices": {
+        "A": "Scores cluster near the bottom because items are too difficult for the group",
+        "B": "Scores become more reliable as the number of items decreases",
+        "C": "Scores cluster near the top, limiting the measure's ability to distinguish high levels of the attribute"
+      },
+      "domain": "Intake & Assessment",
+      "subdomain": "Assessment",
+      "unscored": false,
+      "scenarioBased": false,
+      "scenarioContext": "",
+      "correct": "C",
+      "explanation": "A ceiling effect occurs when a measure is too easy or has an upper limit that compresses high scores. This reduces discrimination among people at the upper end of the construct."
+    },
+    {
+      "id": "NCE-TPC05-009",
+      "prompt": "Which planning response is most culturally and contextually responsive?",
+      "choices": {
+        "A": "Make financial independence from relatives a preliminary goal before career planning begins",
+        "B": "Explore training schedules and objectives that honor the client's stated family commitments and career interests",
+        "C": "Exclude family obligations from the plan because they are not mental health symptoms"
+      },
+      "domain": "Treatment Planning & Continuity of Care",
+      "subdomain": "Treatment Planning",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A client in a multigenerational household says that contributing money and time to extended family is a central personal value. These commitments limit the client's availability for a career-training program, but the client does not view family obligations as a problem to eliminate.",
+      "correct": "B",
+      "explanation": "The client defines family contribution as a value rather than a symptom or obstacle to remove. Collaborative planning can seek feasible training paths that integrate both commitments without imposing an individualistic definition of independence."
+    },
+    {
+      "id": "NCE-TPC05-002",
+      "prompt": "Which treatment goal is most collaborative?",
+      "choices": {
+        "A": "Reach the weight target listed in the referral before addressing family activities",
+        "B": "Increase exercise intensity until the client meets standard fitness recommendations",
+        "C": "Improve participation with grandchildren through client-selected, medically appropriate movement objectives"
+      },
+      "domain": "Treatment Planning & Continuity of Care",
+      "subdomain": "Treatment Planning",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "An integrated care provider referred a client for weight-related behavior change. The client rejects weight loss as the primary outcome but wants enough stamina to play with grandchildren and is willing to plan regular movement that does not worsen joint pain.",
+      "correct": "C",
+      "explanation": "The goal reflects the client's desired functioning and incorporates the joint-pain constraint without making weight the sole outcome. A referral target or standard exercise level should not replace the client's informed priorities."
+    },
+    {
+      "id": "NCE-PCI05-018",
+      "prompt": "Which intervention is most appropriate?",
+      "choices": {
+        "A": "Remove all gaming indefinitely so the consequence is strong enough to change behavior.",
+        "B": "Let the parent decide whether the adolescent was cooperative enough each day.",
+        "C": "Create a specific, observable agreement linking the defined targets to the agreed privilege and review the data together."
+      },
+      "domain": "Provision of Counseling Interventions",
+      "subdomain": "Evidence-Based & Culturally Responsive Interventions",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A parent and 13-year-old want to reduce late-night gaming on school nights. They agree that homework completion and a consistent shutdown time are reasonable targets, and the adolescent identifies weekend gaming time as a meaningful privilege.",
+      "correct": "C",
+      "explanation": "A clear contingency works best when target behaviors and reinforcement are observable and agreed upon. Subjective judgments about cooperation invite conflict, while indefinite removal is disproportionate and less informative."
+    },
+    {
+      "id": "NCE-INA05-027",
+      "prompt": "What is the best response?",
+      "choices": {
+        "A": "Make the decision immediately so the client knows what counseling can accomplish",
+        "B": "Refuse services because wanting advice makes the client unsuitable for counseling",
+        "C": "Clarify the counselor's collaborative role and explore the client's values, goals, and expectations before proceeding"
+      },
+      "domain": "Intake & Assessment",
+      "subdomain": "Intake",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A client begins intake by saying, “Just tell me what decision to make about ending my relationship. I expect the counselor to choose for me.” The client understands that counseling is voluntary but misunderstands the counselor's role.",
+      "correct": "C",
+      "explanation": "The client's request reflects a correctable misunderstanding about the counseling role rather than automatic unsuitability. Clarification allows intake to proceed without the counselor taking over a personal decision."
+    },
+    {
+      "id": "NCE-INA05-005",
+      "prompt": "What is the counselor's best assessment response?",
+      "choices": {
+        "A": "Assume incapacity because the client is older and ask the caregiver to explain the finances",
+        "B": "Assess immediate safety, coercion, access to basic needs, decision-making ability, and the client's wishes, then follow applicable protective procedures",
+        "C": "Treat the issue solely as a family disagreement unless physical injury is visible"
+      },
+      "domain": "Intake & Assessment",
+      "subdomain": "Assessment",
+      "unscored": true,
+      "scenarioBased": true,
+      "scenarioContext": "An older adult says a live-in caregiver pressures the client to sign checks, withholds transportation when the client refuses, and has recently taken control of the client's bank card. The client appears frightened but can describe the events clearly and asks what help is available.",
+      "correct": "B",
+      "explanation": "The report suggests possible financial exploitation and coercive control that may affect safety and basic access. Age alone does not establish incapacity, and visible physical injury is not required before assessing and responding to the concern."
+    },
+    {
+      "id": "NCE-PCI05-012",
+      "prompt": "Which description best reflects healthy group cohesion?",
+      "choices": {
+        "A": "Members avoid disagreement to preserve a consistently comfortable atmosphere.",
+        "B": "Members depend on the leader to resolve every interpersonal tension.",
+        "C": "Members experience belonging and enough trust to engage honestly, including working through disagreement."
+      },
+      "domain": "Provision of Counseling Interventions",
+      "subdomain": "Group, Couple & Family Counseling",
+      "unscored": false,
+      "scenarioBased": false,
+      "scenarioContext": "",
+      "correct": "C",
+      "explanation": "Cohesion includes connection, commitment, and capacity for authentic group work; it does not require perpetual comfort or absence of conflict. Dependence on the leader for every rupture can limit member-to-member development."
+    },
+    {
+      "id": "NCE-TPC05-013",
+      "prompt": "Which plan best supports the client's transition?",
+      "choices": {
+        "A": "Arrange a client-directed handoff to the hospice counselor, clarify current and receiving roles, and plan the ending",
+        "B": "Continue office appointments because transferring counseling during terminal illness would be disruptive",
+        "C": "End counseling without referral because hospice automatically addresses every emotional need"
+      },
+      "domain": "Treatment Planning & Continuity of Care",
+      "subdomain": "Continuity of Care",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A client with a terminal illness is entering home hospice and wants supportive counseling to continue. The current agency cannot provide visits in the home, but the hospice employs a counselor, and the client authorizes coordination.",
+      "correct": "A",
+      "explanation": "The hospice counselor can provide accessible ongoing support that the current agency cannot deliver at home. A coordinated, preference-sensitive handoff preserves continuity without assuming hospice meets every need automatically or requiring burdensome office visits."
+    },
+    {
+      "id": "NCE-LEC05-024",
+      "prompt": "What should the compliance officer do?",
+      "choices": {
+        "A": "Assign clients immediately and refund federal payments only if the match is later confirmed",
+        "B": "Hold federal-program work and claims while verifying the applicant's identity and exclusion status",
+        "C": "Bill the applicant's work under another counselor's identifier until verification is complete"
+      },
+      "domain": "Legal & Ethical Compliance",
+      "subdomain": "Billing, Business Practices & Emergency Readiness",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A pre-employment screening produces an exact-name match for a therapist on the federal List of Excluded Individuals and Entities. Federal rules prohibit program payment for services furnished by an excluded person, but the practice has not yet confirmed whether the listing belongs to the applicant.",
+      "correct": "B",
+      "explanation": "The potential match must be resolved before the practice risks assigning federally reimbursed work to an excluded person. Immediate assignment or billing under another identifier would evade rather than satisfy the payment prohibition."
+    },
+    {
+      "id": "NCE-LEC05-011",
+      "prompt": "Which action best maintains a professional counselor's scope when a client reports troubling medication side effects?",
+      "choices": {
+        "A": "Explore the symptoms and coordinate with an authorized prescriber rather than recommending a dosage change",
+        "B": "Suggest a lower dose verbally as long as the counselor does not put the recommendation in writing",
+        "C": "Tell the client to skip the medication until the next counseling appointment"
+      },
+      "domain": "Legal & Ethical Compliance",
+      "subdomain": "Licensure, Scope & Professional Accountability",
+      "unscored": false,
+      "scenarioBased": false,
+      "scenarioContext": "",
+      "correct": "A",
+      "explanation": "Counselors may address the client's experience and support coordination but do not independently prescribe or adjust medication. Making an unwritten dosing recommendation or directing the client to stop medication would still exceed scope."
+    },
+    {
+      "id": "NCE-INA05-016",
+      "prompt": "Which approach is most appropriate?",
+      "choices": {
+        "A": "Ask the relative to simplify any item that seems confusing",
+        "B": "Omit formal assessment because visual impairment makes standardized measurement invalid",
+        "C": "Use the validated accessible version according to its administration instructions and integrate the results with other assessment data"
+      },
+      "domain": "Intake & Assessment",
+      "subdomain": "Assessment",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A counselor is selecting a symptom measure for a client with severe visual impairment. A validated audio-administered version is available, while the client's relative offers to read and rephrase the printed items.",
+      "correct": "C",
+      "explanation": "An established accessible version preserves standardization better than ad hoc rephrasing by a relative. Visual impairment does not make all formal assessment invalid when an appropriate administration method exists."
+    },
+    {
+      "id": "NCE-PDS05-012",
+      "prompt": "What is the best professional development and advocacy response?",
+      "choices": {
+        "A": "Learn from commuter students and access data, then collaborate on outreach channels and schedules that fit their circumstances",
+        "B": "Continue residence-hall programming because offering the same content online would reduce program quality",
+        "C": "Ask resident students to pass materials to commuters without changing how the center plans outreach"
+      },
+      "domain": "Professional Development & Counselor Self-Awareness",
+      "subdomain": "Professional Development",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A college counseling center provides most prevention workshops in residence halls. Commuter students use counseling services less often and report that they rarely receive program information or can attend evening campus events.",
+      "correct": "A",
+      "explanation": "The center needs direct information about how commuter schedules and communication patterns affect participation. Collaborative redesign addresses the access mechanism instead of relying on resident students to extend a residence-based model."
+    },
+    {
+      "id": "NCE-ICC05-016",
+      "prompt": "What should the note record?",
+      "choices": {
+        "A": "The options discussed, Maribel's selection and stated reason, and the agreed next appointment",
+        "B": "That Maribel refused group treatment and is resistant to the recommended level of care",
+        "C": "Only the individual appointment, because her response to the other option is not clinically relevant"
+      },
+      "domain": "Indirect Client Care",
+      "subdomain": "Clinical Documentation & Session Preparation",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A counselor discusses an evening group and individual counseling with Maribel. Maribel chooses individual counseling because group time conflicts with childcare, and the counselor schedules the next individual appointment.",
+      "correct": "A",
+      "explanation": "The note should represent an informed choice shaped by a concrete scheduling constraint. Maribel accepted counseling rather than rejecting care, so labeling her resistant would be inaccurate. Recording the alternatives and reason helps later readers understand the plan."
+    },
+    {
+      "id": "NCE-TPC05-018",
+      "prompt": "What should the counselor do?",
+      "choices": {
+        "A": "Contact a family member because failure to answer a follow-up call indicates probable crisis",
+        "B": "Follow the agreed outreach procedure, leave the authorized neutral message, and document the attempt",
+        "C": "Reopen the case immediately because a missed follow-up means discharge was premature"
+      },
+      "domain": "Treatment Planning & Continuity of Care",
+      "subdomain": "Continuity of Care",
+      "unscored": true,
+      "scenarioBased": true,
+      "scenarioContext": "A discharge plan includes one follow-up telephone call one week after services end. The client does not answer at the agreed time. There was no acute safety concern at discharge, and the client authorized a neutral voicemail but no contact with family members.",
+      "correct": "B",
+      "explanation": "The counselor should implement the specific follow-up permission and plan established at discharge. A missed call without additional risk information does not authorize family contact or automatically reopen treatment."
+    },
+    {
+      "id": "NCE-INA05-008",
+      "prompt": "What does a correlation of −0.70 between two assessment variables indicate?",
+      "choices": {
+        "A": "The variables have no relationship",
+        "B": "Higher values on one variable tend to be associated with lower values on the other",
+        "C": "One variable causes the other to decrease by 70%"
+      },
+      "domain": "Intake & Assessment",
+      "subdomain": "Assessment",
+      "unscored": false,
+      "scenarioBased": false,
+      "scenarioContext": "",
+      "correct": "B",
+      "explanation": "A negative correlation indicates an inverse association, and a magnitude of 0.70 suggests a relatively strong relationship. Correlation does not establish that one variable causes a specified percentage change in the other."
+    },
+    {
+      "id": "NCE-ICC05-017",
+      "prompt": "What should the counselor do?",
+      "choices": {
+        "A": "Keep waiting for the assigned liaison because contacting anyone else would disrupt the agency's process",
+        "B": "Submit the application for Owen so the deadline is not missed",
+        "C": "With Owen, use a verified alternate agency contact or escalation route and update the coordination plan"
+      },
+      "domain": "Indirect Client Care",
+      "subdomain": "Care Coordination & Stakeholder Collaboration",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "Owen has authorized coordination with a childcare-subsidy agency. The assigned liaison has not responded to messages for 10 days, and the application deadline is in three days. Owen wants to continue the application but does not want the counselor to submit information in his name.",
+      "correct": "C",
+      "explanation": "The approaching deadline and prolonged nonresponse justify using a verified alternative pathway while keeping Owen involved. This preserves his decision not to have the counselor submit information in his name. Waiting passively could allow an avoidable deadline failure."
+    },
+    {
+      "id": "NCE-PDS05-003",
+      "prompt": "What is the most appropriate professional response?",
+      "choices": {
+        "A": "Pause use of the material, learn from credible anti-bias and community-informed sources, and revise the workshop with participant input",
+        "B": "Keep the handout because preparing clients for employer bias is more important than challenging the standard",
+        "C": "Remove all discussion of appearance so the workshop does not need culturally responsive review"
+      },
+      "domain": "Professional Development & Counselor Self-Awareness",
+      "subdomain": "Professional Development",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A career counselor's interview workshop describes several natural Black hairstyles as unprofessional. Participants challenge the material, and the counselor realizes it came from an outdated corporate handout that was never evaluated for cultural bias.",
+      "correct": "A",
+      "explanation": "The counselor should not reinforce a biased appearance standard as neutral career advice. Credible learning and participant-informed revision address the harm while still allowing discussion of workplace contexts in a culturally responsive way."
+    },
+    {
+      "id": "NCE-PCI05-016",
+      "prompt": "What should the family counselor do?",
+      "choices": {
+        "A": "Recommend the larger ritual because shared remembrance promotes family cohesion.",
+        "B": "Invite each person to explain the meaning of the preferred ritual and help the family consider ways to honor more than one form of grief.",
+        "C": "Ask the most recently bereaved member to decide for everyone."
+      },
+      "domain": "Provision of Counseling Interventions",
+      "subdomain": "Group, Couple & Family Counseling",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "Family members disagree about how to mark the anniversary of a grandparent’s death. Some want a large gathering, while another wants a private day of reflection. Each describes the other approach as disrespectful.",
+      "correct": "B",
+      "explanation": "Different mourning practices can each express respect, and exploring meanings reduces the contest over one correct ritual. Allowing one person or the majority to decide may silence other legitimate grief needs."
+    },
+    {
+      "id": "NCE-PCI05-002",
+      "prompt": "Which intervention best matches the problem?",
+      "choices": {
+        "A": "Rehearse coping skills during gradually timed practice tests and review which responses improve performance.",
+        "B": "Focus only on studying more content so confidence increases before the next examination.",
+        "C": "Advise avoiding all timed practice because it may reinforce test anxiety."
+      },
+      "domain": "Provision of Counseling Interventions",
+      "subdomain": "Evidence-Based & Culturally Responsive Interventions",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A graduate student understands course material but freezes during timed examinations. The student reports rushing, losing track of instructions, and abandoning coping skills once the timer starts.",
+      "correct": "A",
+      "explanation": "Practice under increasingly similar performance conditions allows the student to use coping and pacing skills when the relevant trigger is present. More content study does not directly address freezing and abandoned strategies under time pressure."
+    },
+    {
+      "id": "NCE-INA05-007",
+      "prompt": "What is the best assessment action?",
+      "choices": {
+        "A": "Diagnose panic disorder because motor restlessness is a panic symptom",
+        "B": "Interpret the pacing as intentional resistance to the interview",
+        "C": "Assess a possible medication-related movement effect and coordinate prompt review with the prescribing clinician"
+      },
+      "domain": "Intake & Assessment",
+      "subdomain": "Assessment",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A client reports intense inner restlessness and an inability to sit still that began three days after an antipsychotic dose was increased. The client paces throughout the interview and says the sensation feels different from prior anxiety.",
+      "correct": "C",
+      "explanation": "The close onset after a dose increase, subjective inner restlessness, and visible pacing suggest possible akathisia. Treating the behavior as panic or resistance would miss a potentially significant medication effect."
+    },
+    {
+      "id": "NCE-INA05-018",
+      "prompt": "What should the counselor do?",
+      "choices": {
+        "A": "Contact the sibling privately because clinical usefulness overrides the client's preference",
+        "B": "Respect the client's current decision, explain the possible value and limits of collateral information, and revisit permission if appropriate",
+        "C": "Refuse to continue the intake until the client authorizes the sibling interview"
+      },
+      "domain": "Intake & Assessment",
+      "subdomain": "Intake",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A client says a sibling could provide useful history but does not want the counselor to contact the sibling yet. The counselor believes collateral information might eventually help but can begin the intake using the client's report and other available information.",
+      "correct": "B",
+      "explanation": "Potential clinical usefulness does not override the adult client's current choice about routine collateral contact. Intake can proceed using available information while the counselor explains why the subject might be revisited."
+    },
+    {
+      "id": "NCE-PDS05-010",
+      "prompt": "Which statement most accurately describes a certificate of completion from a continuing education activity?",
+      "choices": {
+        "A": "It establishes independent competence whenever the activity is approved for credit",
+        "B": "It transfers responsibility for determining competence to the education provider",
+        "C": "It documents participation, while competence still depends on the counselor's knowledge, skill, feedback, and appropriate application"
+      },
+      "domain": "Professional Development & Counselor Self-Awareness",
+      "subdomain": "Professional Development",
+      "unscored": false,
+      "scenarioBased": false,
+      "scenarioContext": "",
+      "correct": "C",
+      "explanation": "A completion certificate verifies participation under the provider's terms but does not prove independent ability to perform every covered skill. The counselor remains responsible for evaluating and developing actual competence."
+    },
+    {
+      "id": "NCE-PCI05-022",
+      "prompt": "Which intervention best fits?",
+      "choices": {
+        "A": "Distract the client immediately so no awareness of craving occurs.",
+        "B": "Guide the client to observe the craving’s sensations and changing intensity without acting on it, like riding a wave.",
+        "C": "Reassure the client that cravings are harmless and will disappear permanently after one practice."
+      },
+      "domain": "Provision of Counseling Interventions",
+      "subdomain": "Evidence-Based & Culturally Responsive Interventions",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A client trying to stop vaping notices cravings rise and fall during work breaks. The client assumes every craving will keep increasing until vaping occurs and is willing to practice observing one in session.",
+      "correct": "B",
+      "explanation": "Urge surfing teaches that cravings fluctuate and can be experienced without automatic action. Immediate distraction may sometimes help, but it would not test the client’s belief that an observed craving only rises until vaping occurs."
+    },
+    {
+      "id": "NCE-PCI05-015",
+      "prompt": "What should the counselor do?",
+      "choices": {
+        "A": "Schedule a next-day appointment after obtaining a verbal promise that the firearm will not be used.",
+        "B": "Ask the client to drive home, secure the firearm, and then go to an emergency department.",
+        "C": "Remain with the client, activate the emergency protocol, and communicate the risk information needed for a safe evaluation."
+      },
+      "domain": "Provision of Counseling Interventions",
+      "subdomain": "Crisis Response, Psychoeducation & Client Empowerment",
+      "unscored": true,
+      "scenarioBased": true,
+      "scenarioContext": "A client reports current suicidal intent and access to a firearm at home. The agency’s emergency protocol requires continuous supervision and immediate emergency evaluation when intent and lethal-means access are present.",
+      "correct": "C",
+      "explanation": "Current intent plus firearm access meets the stated threshold for supervised emergency intervention. Sending the client home increases access to the identified lethal means, and a promise does not adequately manage the described danger."
+    },
+    {
+      "id": "NCE-TPC05-020",
+      "prompt": "What is the most appropriate response?",
+      "choices": {
+        "A": "Continue treatment because family concern overrides termination criteria when relapse is possible",
+        "B": "Refuse to hear the family member because no clinical details may be disclosed",
+        "C": "Consider the concern within the client's permission, review aftercare with the client, and proceed collaboratively with termination"
+      },
+      "domain": "Treatment Planning & Continuity of Care",
+      "subdomain": "Continuity of Care",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A client has met the agreed counseling goals and wants to terminate. A family member believes the client should continue and asks the counselor to postpone discharge. The client has decision-making capacity, no acute safety concern, and permits the counselor to hear the family member's concern but not to share clinical details.",
+      "correct": "C",
+      "explanation": "The capable client has met the criteria and controls both termination and the permitted scope of family involvement. The concern may inform aftercare discussion but does not automatically override the client's decision."
+    },
+    {
+      "id": "NCE-TPC05-017",
+      "prompt": "Which modality plan is most appropriate?",
+      "choices": {
+        "A": "Require in-person attendance because family counseling cannot be effective through video",
+        "B": "Begin individual counseling with the parent because geographically separated adults cannot share a family goal",
+        "C": "Use the suitable family telehealth format and define shared goals, participation expectations, and review criteria"
+      },
+      "domain": "Treatment Planning & Continuity of Care",
+      "subdomain": "Treatment Planning",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "An adult client wants family counseling with two adult children who live in different regions. All participants want to improve communication, can use private video connections, and are eligible for the agency's family telehealth service.",
+      "correct": "C",
+      "explanation": "The facts establish willingness, privacy, eligibility, and a shared family concern, making telehealth a feasible modality. Geography alone does not require individual treatment or make family work ineffective."
+    },
+    {
+      "id": "NCE-ICC05-004",
+      "prompt": "What should the counselor facilitate?",
+      "choices": {
+        "A": "Accept the coach's interpretation because the coach manages the employment service",
+        "B": "Record the differing accounts and identify what information should be reviewed before the team changes the plan",
+        "C": "Exclude the coach's perspective because the client's account should never be questioned"
+      },
+      "domain": "Indirect Client Care",
+      "subdomain": "Care Coordination & Stakeholder Collaboration",
+      "unscored": true,
+      "scenarioBased": true,
+      "scenarioContext": "At a planning meeting, a job coach describes the client as unmotivated after a missed interview. The client says the employer changed the interview time without notice and offers to show the message. The counselor is authorized to coordinate with both parties, and the team is considering changing the employment plan.",
+      "correct": "B",
+      "explanation": "The meeting contains a disputed interpretation and a potentially verifiable scheduling message. Recording both accounts and checking relevant information supports a more accurate employment plan. Automatically accepting or excluding either perspective would replace inquiry with an unsupported conclusion."
+    },
+    {
+      "id": "NCE-PDS05-013",
+      "prompt": "What is the most appropriate response?",
+      "choices": {
+        "A": "Work longer hours until administrative skill develops through experience",
+        "B": "Acknowledge the new competence gap, seek management training and consultation, and renegotiate workload and delegation",
+        "C": "Return immediately to the former role because management competence cannot be developed after promotion"
+      },
+      "domain": "Professional Development & Counselor Self-Awareness",
+      "subdomain": "Counselor Self-Awareness",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A counselor is promoted to coordinate a large program and retains a full clinical caseload. The counselor has never managed budgets or staff schedules, misses deadlines, and is reluctant to delegate because clinical success previously depended on personal control.",
+      "correct": "B",
+      "explanation": "Promotion created responsibilities not covered by prior clinical success, and maintaining a full caseload leaves little capacity to learn them. Targeted development, consultation, delegation, and workload review address the new role without assuming immediate mastery or permanent failure."
+    },
+    {
+      "id": "NCE-TPC05-019",
+      "prompt": "How should the treatment plan change?",
+      "choices": {
+        "A": "Close the reconciliation goal and collaborate on a new co-parenting goal if it fits the service and both partners consent",
+        "B": "Keep reconciliation as the primary goal because changing it may reinforce avoidance of relationship problems",
+        "C": "End all counseling because separation makes any couples-based planning inappropriate"
+      },
+      "domain": "Treatment Planning & Continuity of Care",
+      "subdomain": "Treatment Planning",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "Two partners began counseling with a shared goal of repairing their relationship. They have now decided to separate and both want help developing respectful co-parenting communication. Neither wants continued reconciliation work.",
+      "correct": "A",
+      "explanation": "The original goal no longer reflects either partner's preference, while a shared co-parenting need remains. Updating the plan preserves collaboration and service relevance rather than treating separation as failure or a reason to retain reconciliation work."
+    },
+    {
+      "id": "NCE-INA05-024",
+      "prompt": "What should the counselor do?",
+      "choices": {
+        "A": "Review each choice with the client and obtain affirmative, informed decisions rather than relying on default selections",
+        "B": "Treat every preselected box as valid because the client opened the form",
+        "C": "Leave the boxes unchanged and explain them only if the client later complains"
+      },
+      "domain": "Intake & Assessment",
+      "subdomain": "Intake",
+      "unscored": true,
+      "scenarioBased": true,
+      "scenarioContext": "An online intake form automatically displays preselected consent boxes for email reminders, information sharing with a family contact, and participation in optional workshops. The client has not reviewed the selections.",
+      "correct": "A",
+      "explanation": "Prechecked boxes do not demonstrate that the client understood or actively selected each optional disclosure or service. The counselor should separate the choices and obtain meaningful consent for each."
+    },
+    {
+      "id": "NCE-TPC05-004",
+      "prompt": "Which plan best addresses these needs?",
+      "choices": {
+        "A": "Refer the client to a qualified nonprofit financial counselor while continuing anxiety treatment and coordinating with permission",
+        "B": "Design a repayment schedule because financial stress is contributing to the client's anxiety symptoms",
+        "C": "Restrict counseling to emotion regulation and decline to discuss any outside resource for the debt concern"
+      },
+      "domain": "Treatment Planning & Continuity of Care",
+      "subdomain": "Continuity of Care",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A client with anxiety asks the counselor to create a detailed plan for repaying several high-interest debts. The counselor lacks financial-planning expertise. The client wants both emotional support and reliable guidance about repayment options.",
+      "correct": "A",
+      "explanation": "The client needs expertise beyond the counselor's competence as well as ongoing help with the emotional effects of debt. Parallel referral and counseling address both needs without the counselor practicing financial planning or ignoring a major stressor."
+    },
+    {
+      "id": "NCE-PDS05-016",
+      "prompt": "What should the counselor do?",
+      "choices": {
+        "A": "Continue exploring hidden costs because clients often use success to avoid deeper problems",
+        "B": "Identify the envy in supervision, regulate devaluing responses, and return to the client's stated meaning and goals",
+        "C": "Disclose the envy so the client understands that success can affect other people"
+      },
+      "domain": "Professional Development & Counselor Self-Awareness",
+      "subdomain": "Counselor Self-Awareness",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A client describes rapid career advancement and financial success. The counselor feels envious, begins minimizing the accomplishments, and repeatedly redirects attention to possible hidden costs even though the client wants to celebrate progress.",
+      "correct": "B",
+      "explanation": "The counselor's envy is leading to minimization and an unsupported search for hidden problems. Supervision and regulation can restore attention to the client's experience without burdening the client through disclosure."
+    },
+    {
+      "id": "NCE-ICC05-010",
+      "prompt": "How should the note be revised?",
+      "choices": {
+        "A": "Treat the interpreter as the clinical informant because the counselor did not understand the client's original words",
+        "B": "Omit the sleep concern because it was communicated through another person",
+        "C": "Identify the language support used and attribute the insomnia report to the client rather than the interpreter"
+      },
+      "domain": "Indirect Client Care",
+      "subdomain": "Clinical Documentation & Session Preparation",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A qualified interpreter assists during a session in which the client reports insomnia. The counselor's draft note says, \"The interpreter reported that the client cannot sleep.\" The counselor heard the interpretation while speaking directly with the client.",
+      "correct": "C",
+      "explanation": "The interpreter conveyed the client's statement but did not become the source of the symptom report. Documenting the language support explains how communication occurred while retaining correct attribution. Omitting interpreted content would erase clinically relevant information obtained during the session."
+    },
+    {
+      "id": "NCE-LEC05-006",
+      "prompt": "What should the counselor do?",
+      "choices": {
+        "A": "Begin because the parent who scheduled the appointment has physical custody that week",
+        "B": "Obtain the other parent's consent or authoritative clarification before starting nonemergency treatment",
+        "C": "Ask the adolescent to choose which parent's authorization controls the decision"
+      },
+      "domain": "Legal & Ethical Compliance",
+      "subdomain": "Legal, Regulatory & Ethical Duties",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "The current custody order for a 13-year-old gives both parents joint legal custody and expressly requires both parents' consent for nonemergency health care. One parent asks a counselor to begin weekly treatment without contacting the other parent. No emergency is present.",
+      "correct": "B",
+      "explanation": "The controlling order explicitly requires both parents' consent for this nonemergency care. Physical custody for the week and the adolescent's preference do not alter the legal-consent provision supplied in the item."
+    },
+    {
+      "id": "NCE-INA05-019",
+      "prompt": "Which statistic describes the difference between the highest and lowest scores in a distribution?",
+      "choices": {
+        "A": "Variance",
+        "B": "Standard deviation",
+        "C": "Range"
+      },
+      "domain": "Intake & Assessment",
+      "subdomain": "Assessment",
+      "unscored": false,
+      "scenarioBased": false,
+      "scenarioContext": "",
+      "correct": "C",
+      "explanation": "The range is calculated from the highest and lowest scores. Variance and standard deviation instead summarize dispersion using all scores in the distribution."
+    },
+    {
+      "id": "NCE-LEC05-001",
+      "prompt": "How should a counselor respond to a director's instruction to use the labels during sessions?",
+      "choices": {
+        "A": "Use a label only when it agrees with the counselor's initial impression",
+        "B": "Show each label to the client after the session and ask whether it seems accurate",
+        "C": "Disable the tool and rely on direct assessment until validity, privacy, consent, and governance requirements are met"
+      },
+      "domain": "Legal & Ethical Compliance",
+      "subdomain": "Technology, AI & Telemental Health Compliance",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A community clinic is evaluating an artificial intelligence overlay that labels clients as \"deceptive\" or \"disengaged\" from gaze, facial movement, and voice. The vendor states that the model has not been validated for clinical decisions or for neurodivergent and multilingual clients, and clients have not been told about it.",
+      "correct": "C",
+      "explanation": "The vendor has expressly disclaimed the model's clinical validity for relevant populations, and clients have not received essential information. Using an unsupported deception label could bias care, so human assessment and formal review must precede implementation."
+    },
+    {
+      "id": "NCE-TPC05-014",
+      "prompt": "What is the best way to review the diagnosis for planning purposes?",
+      "choices": {
+        "A": "Avoid discussing treatment options until the client decides whether to take medication",
+        "B": "Tell the client that medication decisions must be made before counseling goals can be written",
+        "C": "Clarify what the diagnosis describes and collaboratively review counseling, support, and referral options without prescribing one path"
+      },
+      "domain": "Treatment Planning & Continuity of Care",
+      "subdomain": "Treatment Planning",
+      "unscored": true,
+      "scenarioBased": true,
+      "scenarioContext": "A client newly diagnosed with attention-deficit/hyperactivity disorder says, “This diagnosis means medication is the only real treatment.” The client wants organizational help but is uncertain about medication and has not yet developed the initial counseling plan.",
+      "correct": "C",
+      "explanation": "An ADHD diagnosis can inform planning without dictating medication or making medication a prerequisite for counseling goals. Clear review corrects the client's misconception and supports informed participation in available options."
+    },
+    {
+      "id": "NCE-ICC05-001",
+      "prompt": "What should the counselor do?",
+      "choices": {
+        "A": "Assure Marcus that appearance never matters when the medication name on the bottle is unchanged",
+        "B": "Tell Marcus to stop the medication until his next counseling appointment",
+        "C": "Document the concern and help Marcus obtain verification from the dispensing pharmacist"
+      },
+      "domain": "Indirect Client Care",
+      "subdomain": "Referral, Medication & Language Support",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "After a refill, Marcus notices that his prescribed tablets have a different color and shape. The bottle lists the same medication name and dose, but Marcus asks his counselor whether the tablets are correct. He reports no symptoms, and an authorization permits contact with the pharmacy.",
+      "correct": "C",
+      "explanation": "A change in appearance may have a routine explanation, but the pharmacist is the appropriate professional to verify what was dispensed. The counselor can support that contact without declaring the tablets correct or directing discontinuation. Marcus's lack of symptoms does not resolve the identification question."
+    },
+    {
+      "id": "NCE-PDS05-022",
+      "prompt": "When two credible professional guidelines offer different recommendations, what should a counselor do?",
+      "choices": {
+        "A": "Examine their evidence, populations, purposes, and recency, seek relevant consultation, and apply a reasoned conclusion to the context",
+        "B": "Follow whichever guideline is shorter because concise guidance is easier to implement consistently",
+        "C": "Combine all recommendations even when they conflict so no professional source is disregarded"
+      },
+      "domain": "Professional Development & Counselor Self-Awareness",
+      "subdomain": "Professional Development",
+      "unscored": false,
+      "scenarioBased": false,
+      "scenarioContext": "",
+      "correct": "A",
+      "explanation": "Credible guidelines may differ because they address different evidence, populations, or goals. Critical comparison and consultation support a contextual decision; choosing by convenience or combining incompatible recommendations avoids the actual reasoning task."
+    },
+    {
+      "id": "NCE-LEC05-031",
+      "prompt": "What should the supervisor do?",
+      "choices": {
+        "A": "Accept because disclosing the percentage to supervisees removes the conflict",
+        "B": "Accept if the supervisor audits every supervisee note before a claim is filed",
+        "C": "Decline the percentage arrangement and establish compensation that is not tied to supervisee billing"
+      },
+      "domain": "Legal & Ethical Compliance",
+      "subdomain": "Licensure, Scope & Professional Accountability",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "An agency offers a supervisor 8% of every claim billed by each supervisee. The licensing rule prohibits supervision compensation that is contingent on a supervisee's clinical volume because it can impair independent evaluation.",
+      "correct": "C",
+      "explanation": "The rule directly prohibits compensation contingent on supervisee clinical volume because it may distort independent supervision. Disclosure or more note review does not remove the prohibited financial incentive."
+    },
+    {
+      "id": "NCE-PDS05-006",
+      "prompt": "What should the counselor do?",
+      "choices": {
+        "A": "Ask the client to choose the category that best matches sex assigned at birth so the norms can be applied",
+        "B": "Average the two norm groups because the client's identity falls between the available categories",
+        "C": "Discuss the limitation, consult appropriate assessment expertise, and use a better-supported alternative when valid interpretation is not possible"
+      },
+      "domain": "Professional Development & Counselor Self-Awareness",
+      "subdomain": "Counselor Self-Awareness",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A personality measure asks respondents to choose either male or female, and its interpretation relies on separate binary-gender norms. A nonbinary client does not identify with either option. The counselor has not examined how this limitation affects score meaning.",
+      "correct": "C",
+      "explanation": "The available norms do not provide a clearly supported interpretation for this client. Forcing a category or averaging norms invents an unsupported scoring method, whereas consultation and an appropriate alternative respect both assessment validity and the client's identity."
+    },
+    {
+      "id": "NCE-LEC05-018",
+      "prompt": "What should the practice do?",
+      "choices": {
+        "A": "Deny entry because another visitor might report a dog allergy in the future",
+        "B": "Allow the service dog without a pet surcharge and address only actual behavior if a problem arises",
+        "C": "Require the client to provide medical records proving the disability before each visit"
+      },
+      "domain": "Legal & Ethical Compliance",
+      "subdomain": "Legal, Regulatory & Ethical Duties",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A client arrives with a trained service dog. The building has a no-pets rule, but the applicable disability law requires access unless an individualized assessment shows a direct threat or fundamental alteration. The dog is under control, and no such problem is present.",
+      "correct": "B",
+      "explanation": "The dog is controlled, and the scenario supplies no individualized direct threat or fundamental alteration. Speculative concerns and demands for medical records do not justify treating a service animal as a prohibited pet."
+    },
+    {
+      "id": "NCE-PCI05-010",
+      "prompt": "How should the counselor adapt monitoring?",
+      "choices": {
+        "A": "Continue the numerical scale until repeated practice improves precision.",
+        "B": "Use the client’s descriptive anchors consistently and connect each level with observable signs and coping choices.",
+        "C": "Stop monitoring distress because a standardized number is required for meaningful comparison."
+      },
+      "domain": "Provision of Counseling Interventions",
+      "subdomain": "Evidence-Based & Culturally Responsive Interventions",
+      "unscored": true,
+      "scenarioBased": true,
+      "scenarioContext": "A client has difficulty distinguishing numerical ratings such as 6 versus 7 on a 0-to-10 distress scale. The client can reliably describe distress as mild, moderate, strong, or overwhelming.",
+      "correct": "B",
+      "explanation": "Reliable client-defined categories can support repeated monitoring when fine numerical distinctions are not meaningful. Preserving functional consistency is more useful than insisting on a number the client cannot apply reliably."
+    },
+    {
+      "id": "NCE-LEC05-029",
+      "prompt": "What should the counselor do?",
+      "choices": {
+        "A": "Keep the observer out unless the client receives the required information and freely agrees before observation",
+        "B": "Allow observation because staff training is an internal clinic purpose",
+        "C": "Let the intern observe and ask the client to sign consent after the session"
+      },
+      "domain": "Legal & Ethical Compliance",
+      "subdomain": "Legal, Regulatory & Ethical Duties",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A graduate intern arrives to observe a counseling session as part of training. Clinic policy permits observation only after the client gives advance, voluntary consent and states that refusal will not affect services. The client was not told that an observer would attend.",
+      "correct": "A",
+      "explanation": "Internal training does not replace the advance, voluntary consent required by clinic policy. Seeking permission after observation would occur only after the client's privacy had already been compromised."
+    },
+    {
+      "id": "NCE-ICC05-009",
+      "prompt": "Which review process would most improve a counseling program's referral resources over time?",
+      "choices": {
+        "A": "Examine de-identified patterns of successful and failed linkages and recurring barriers, then update resource vetting accordingly",
+        "B": "Count how many resource brochures counselors distribute without checking whether clients connect",
+        "C": "Remove any program with low use before determining whether the cause is poor fit, limited awareness, or an access barrier"
+      },
+      "domain": "Indirect Client Care",
+      "subdomain": "Referral, Medication & Language Support",
+      "unscored": true,
+      "scenarioBased": false,
+      "scenarioContext": "",
+      "correct": "A",
+      "explanation": "Connection outcomes and barrier patterns reveal whether listed resources function in practice and where directory information needs improvement. Brochure counts measure distribution rather than access. Low use should be understood before a potentially valuable resource is removed."
+    },
+    {
+      "id": "NCE-INA05-021",
+      "prompt": "What should the counselor do?",
+      "choices": {
+        "A": "Promise to choose whichever partner requests individual counseling first",
+        "B": "Delay discussion of future role changes until the couple separates",
+        "C": "Explain the defined client, the policy on later individual services, and the available referral process before obtaining consent"
+      },
+      "domain": "Intake & Assessment",
+      "subdomain": "Intake",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "At a couple's intake, one partner asks whether the counselor will become that partner's individual counselor if the relationship ends. The practice policy states that the couple is the client and that either partner seeking later individual work will be referred to another clinician.",
+      "correct": "C",
+      "explanation": "The practice's handling of role transitions is material to informed consent in couple work. Promising future individual treatment to one partner would conflict with the stated policy, while delaying disclosure prevents informed agreement."
+    },
+    {
+      "id": "NCE-PCI05-027",
+      "prompt": "What is the counselor’s best response?",
+      "choices": {
+        "A": "Reassure the client that the counselor cares in the same way a parent would.",
+        "B": "Redirect to the client’s family history without discussing the statement about the counselor.",
+        "C": "Explore what the wished-for relationship represents while maintaining the counselor’s therapeutic role."
+      },
+      "domain": "Provision of Counseling Interventions",
+      "subdomain": "Core Counseling Skills & Therapeutic Alliance",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A client tells the counselor, “I wish you were my parent. You actually listen.” The counselor recognizes the statement as meaningful but cannot take on a parental role.",
+      "correct": "C",
+      "explanation": "The statement contains important relational meaning that can be explored without enacting a parental relationship. Redirecting away loses valuable material, while claiming parent-like care blurs roles."
+    },
+    {
+      "id": "NCE-ICC05-002",
+      "prompt": "How should the counselor organize future coordination?",
+      "choices": {
+        "A": "Ask Kayla which decisions and participants belong together and use smaller meetings when they can accomplish the goal",
+        "B": "Continue inviting everyone because a signed authorization means all stakeholders should attend each meeting",
+        "C": "Hold provider-only meetings so Kayla does not have to manage the stress of participating"
+      },
+      "domain": "Indirect Client Care",
+      "subdomain": "Care Coordination & Stakeholder Collaboration",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "Kayla has authorized coordination with a housing advocate, college advisor, benefits counselor, and family support person. She tells her counselor that meetings with all four people at once are overwhelming and that she stops asking questions. Several upcoming decisions require only one or two of the stakeholders.",
+      "correct": "A",
+      "explanation": "Authorization permits participation but does not require every stakeholder to attend every interaction. Staging focused meetings can preserve Kayla's voice and reduce unnecessary burden while still including relevant expertise. Provider-only meetings would remove her from decisions rather than address the meeting design."
+    },
+    {
+      "id": "NCE-TPC05-012",
+      "prompt": "What is the primary purpose of sequencing treatment objectives?",
+      "choices": {
+        "A": "To ensure that every client completes the same foundational activities before individualized work begins",
+        "B": "To address prerequisites and arrange achievable steps that build toward broader goals",
+        "C": "To place the easiest tasks first regardless of their connection to the presenting problem"
+      },
+      "domain": "Treatment Planning & Continuity of Care",
+      "subdomain": "Treatment Planning",
+      "unscored": false,
+      "scenarioBased": false,
+      "scenarioContext": "",
+      "correct": "B",
+      "explanation": "Sequencing creates a clinically meaningful progression when one skill, resource, or step supports the next. It is not a requirement for identical preparation or for choosing unrelated tasks merely because they are easy."
+    },
+    {
+      "id": "NCE-TPC05-006",
+      "prompt": "Which action best follows the continuity protocol?",
+      "choices": {
+        "A": "Use personal email temporarily because rapid client notification is more important than the approved procedure",
+        "B": "Use the verified offline roster and approved telephone process to address appointments and urgent needs",
+        "C": "Delay all contact until the electronic record is restored so no information is handled outside the system"
+      },
+      "domain": "Treatment Planning & Continuity of Care",
+      "subdomain": "Continuity of Care",
+      "unscored": true,
+      "scenarioBased": true,
+      "scenarioContext": "A cyberattack disables an agency's scheduling and record systems. The continuity protocol provides a verified offline contact roster, approved secure telephone procedures, and instructions not to use personal email or unapproved messaging. Several appointments are scheduled for the next two days.",
+      "correct": "B",
+      "explanation": "The continuity protocol supplies a secure alternative that permits timely contact while electronic systems are unavailable. Personal accounts would bypass the stated safeguards, whereas waiting could leave scheduled or urgent needs unattended."
+    },
+    {
+      "id": "NCE-LEC05-016",
+      "prompt": "What should the counselor do?",
+      "choices": {
+        "A": "Begin services under the individual license because the lease creates a business obligation",
+        "B": "Advertise the corporation as \"authorization pending\" and accept cash-only clients",
+        "C": "Obtain the entity authorization before advertising or providing counseling through the corporation"
+      },
+      "domain": "Legal & Ethical Compliance",
+      "subdomain": "Licensure, Scope & Professional Accountability",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A licensed counselor forms a professional corporation. State rules require a board certificate of authorization before the entity advertises or provides counseling, and the counselor's individual license does not satisfy the entity requirement. The counselor has already signed an office lease.",
+      "correct": "C",
+      "explanation": "The individual license and signed lease do not replace the separate entity approval required by the stated rule. Advertising as pending or taking only cash clients would still involve unauthorized corporate practice."
+    },
+    {
+      "id": "NCE-ICC05-015",
+      "prompt": "How should the counselor provide the material?",
+      "choices": {
+        "A": "Use the Simplified Chinese handout because spoken Cantonese means either written form should be adequate",
+        "B": "Obtain qualified translation in Mei's preferred written form and confirm that the resulting support is usable for her",
+        "C": "Ask a family member to rewrite the handout informally in whichever characters seem familiar"
+      },
+      "domain": "Indirect Client Care",
+      "subdomain": "Referral, Medication & Language Support",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "Mei speaks Cantonese and prefers written materials in Traditional Chinese. The clinic's current handout is available only in Simplified Chinese, which Mei says she cannot read comfortably. A qualified translation service is available.",
+      "correct": "B",
+      "explanation": "Spoken language and preferred written form are separate access considerations. Qualified translation into Traditional Chinese responds to Mei's stated reading need, and confirmation checks whether the support works in practice. A family rewrite would not provide equivalent translation quality."
+    },
+    {
+      "id": "NCE-TPC05-010",
+      "prompt": "How should the counselor revise the plan?",
+      "choices": {
+        "A": "Replace exercise-based activation with medically appropriate nonexercise activities and coordinate with the specialty team",
+        "B": "Keep the gym objective because behavioral activation addresses depression rather than eating-disorder symptoms",
+        "C": "Remove all behavioral activation because the temporary restriction rules out activity-based depression treatment"
+      },
+      "domain": "Treatment Planning & Continuity of Care",
+      "subdomain": "Treatment Planning",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A client with depression also has a diagnosed eating disorder characterized by compulsive exercise. The specialty medical team has instructed the client to avoid unsupervised exercise temporarily. A draft depression plan lists daily gym workouts as behavioral activation.",
+      "correct": "A",
+      "explanation": "The exercise restriction makes the drafted intervention unsuitable, not behavioral activation as a whole. Alternative rewarding activities can support depression care while respecting the specialty team's medical guidance."
+    },
+    {
+      "id": "NCE-TPC05-008",
+      "prompt": "What should the counselor do next?",
+      "choices": {
+        "A": "Close the vocational goal because the specialist program made an eligibility decision",
+        "B": "Ask the client to repeat the original application without changing any information",
+        "C": "Review the denial with the client, verify alternatives, and revise the referral plan"
+      },
+      "domain": "Treatment Planning & Continuity of Care",
+      "subdomain": "Continuity of Care",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A counselor refers a client to a community employment program, but the program determines that the client does not meet its eligibility criteria. The client still wants vocational support, and two other programs serve people with the client's qualifications.",
+      "correct": "C",
+      "explanation": "Ineligibility for one program does not eliminate the vocational goal when other appropriate resources exist. A responsive continuity plan uses the feedback to select and verify a better-matched option."
+    },
+    {
+      "id": "NCE-INA05-014",
+      "prompt": "Which diagnosis is most consistent with these facts?",
+      "choices": {
+        "A": "Bipolar I disorder",
+        "B": "Disruptive mood dysregulation disorder",
+        "C": "Intermittent explosive disorder"
+      },
+      "domain": "Intake & Assessment",
+      "subdomain": "Assessment",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A 10-year-old has severe temper outbursts at least three times weekly and remains persistently irritable between outbursts. The pattern has lasted 14 months, occurs at home and school, began before age 10, and has never included a distinct manic or hypomanic episode.",
+      "correct": "B",
+      "explanation": "Severe recurrent outbursts plus persistent between-outburst irritability across settings for more than a year fit disruptive mood dysregulation disorder in the stated age range. The absence of distinct manic or hypomanic episodes argues against bipolar I disorder."
+    },
+    {
+      "id": "NCE-TPC05-024",
+      "prompt": "Which maintenance plan best supports relapse prevention?",
+      "choices": {
+        "A": "Avoid television permanently because exposure to a familiar cue makes recurrence unavoidable",
+        "B": "Continue the competing response and stimulus supports, monitor early recurrence, and define when to seek follow-up",
+        "C": "Remove the textured object to determine whether the urge has been fully eliminated before discharge"
+      },
+      "domain": "Treatment Planning & Continuity of Care",
+      "subdomain": "Continuity of Care",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A client completing treatment for excoriation disorder identifies television viewing as a common setting for automatic skin picking. The client has successfully used a competing response and keeps a textured object nearby during sessions at home.",
+      "correct": "B",
+      "explanation": "The plan extends strategies that have worked in the client's identified high-risk setting and adds early-response criteria. Permanent avoidance is unnecessary, while removing supports to test recovery would discard protective gains."
+    },
+    {
+      "id": "NCE-PCI05-008",
+      "prompt": "What is the counselor’s best intervention?",
+      "choices": {
+        "A": "Slow the exchange, establish a structure for factual disclosure, and help the partners examine the secrecy-criticism cycle without assigning a global label.",
+        "B": "Agree that hiding debt is irresponsible so the couple can begin from a shared reality.",
+        "C": "Postpone all discussion until the counselor has independently reviewed the couple’s financial records."
+      },
+      "domain": "Provision of Counseling Interventions",
+      "subdomain": "Group, Couple & Family Counseling",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "In couple counseling, one partner reveals undisclosed credit-card debt. The other demands that the counselor identify who is “the irresponsible one,” while the disclosing partner becomes defensive.",
+      "correct": "A",
+      "explanation": "A structured process addresses the financial facts and the reciprocal interaction that may maintain defensiveness and criticism. Globally labeling one partner narrows the work to blame and places the counselor in an adjudicating role."
+    },
+    {
+      "id": "NCE-PCI05-013",
+      "prompt": "What is shaping in a behavioral intervention?",
+      "choices": {
+        "A": "Removing all reinforcement until the complete target behavior occurs.",
+        "B": "Reinforcing successive approximations that gradually move toward the target behavior.",
+        "C": "Explaining the target behavior repeatedly until the client performs it correctly."
+      },
+      "domain": "Provision of Counseling Interventions",
+      "subdomain": "Evidence-Based & Culturally Responsive Interventions",
+      "unscored": false,
+      "scenarioBased": false,
+      "scenarioContext": "",
+      "correct": "B",
+      "explanation": "Shaping builds a new behavior by reinforcing achievable steps that increasingly resemble the final target. Waiting for perfect performance provides no support for acquiring the intermediate responses."
+    },
+    {
+      "id": "NCE-TPC05-022",
+      "prompt": "Which next step best supports continuity?",
+      "choices": {
+        "A": "Collaboratively arrange the specialty referral and provide an agreed bridge while the new service evaluates fit",
+        "B": "Repeat the current plan for another full cycle because referral could undermine the client's confidence",
+        "C": "End the case before making the referral so the specialist receives an unbiased presentation"
+      },
+      "domain": "Treatment Planning & Continuity of Care",
+      "subdomain": "Continuity of Care",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A client has attended counseling reliably and used the agreed interventions, but disabling health anxiety remains unchanged after two well-documented plan revisions. The client wants a clinician with specialized expertise, and an appropriate program is available.",
+      "correct": "A",
+      "explanation": "Reliable participation and two documented revisions have not produced improvement, and the client requests suitable expertise that is available. A coordinated referral with a bridge avoids both unproductive repetition and a gap before acceptance."
+    },
+    {
+      "id": "NCE-LEC05-027",
+      "prompt": "What should the counselor do?",
+      "choices": {
+        "A": "Wait to see whether anyone attempts access because no client record is stored on the key",
+        "B": "Report the loss, revoke the key, review relevant access activity, and obtain a replacement",
+        "C": "Send staff the key's printed label so they can recognize it if someone uses it"
+      },
+      "domain": "Legal & Ethical Compliance",
+      "subdomain": "Technology, AI & Telemental Health Compliance",
+      "unscored": true,
+      "scenarioBased": true,
+      "scenarioContext": "A counselor loses a hardware security key that can authenticate access to the EHR. The key contains no client files, but security policy requires immediate revocation because possession may permit account access.",
+      "correct": "B",
+      "explanation": "The key's risk is its authentication capability, not local storage of client files. Prompt revocation and review prevent or detect account access and comply with the stated incident policy."
+    },
+    {
+      "id": "NCE-TPC05-021",
+      "prompt": "Which feature most clearly makes an objective relevant?",
+      "choices": {
+        "A": "It can be completed quickly and produces data that are easy for the counselor to graph",
+        "B": "It advances the client's identified goal and addresses information supported by the case formulation",
+        "C": "It appears in a standard protocol commonly used for the client's diagnosis"
+      },
+      "domain": "Treatment Planning & Continuity of Care",
+      "subdomain": "Treatment Planning",
+      "unscored": false,
+      "scenarioBased": false,
+      "scenarioContext": "",
+      "correct": "B",
+      "explanation": "Relevance requires a meaningful link between the objective, the client's desired outcome, and the conceptualized problem. Speed, graphability, or protocol inclusion alone does not supply that connection."
+    },
+    {
+      "id": "NCE-LEC05-014",
+      "prompt": "What should the counselor do?",
+      "choices": {
+        "A": "Discuss those factors with the client, make a client-centered boundary decision, and document the reasoning",
+        "B": "Accept automatically because declining any culturally important invitation is unethical",
+        "C": "Terminate counseling before the ceremony so attendance cannot affect professional boundaries"
+      },
+      "domain": "Legal & Ethical Compliance",
+      "subdomain": "Legal, Regulatory & Ethical Duties",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A client invites the counselor to a culturally important graduation ceremony. Practice policy does not categorically forbid attendance but requires assessment of client meaning, alternatives, foreseeable benefits and harms, role effects, and documentation.",
+      "correct": "A",
+      "explanation": "The policy calls for a contextual analysis rather than automatic acceptance or prohibition. Exploring cultural meaning, alternatives, and role effects supports a defensible decision focused on client welfare."
+    },
+    {
+      "id": "NCE-INA05-029",
+      "prompt": "Which diagnosis is most consistent with this longitudinal pattern?",
+      "choices": {
+        "A": "Major depressive disorder with psychotic features",
+        "B": "Schizoaffective disorder, depressive type",
+        "C": "Brief psychotic disorder"
+      },
+      "domain": "Intake & Assessment",
+      "subdomain": "Assessment",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A client has recurrent major depressive episodes. During one episode, delusions and hallucinations were present, and psychotic symptoms also persisted for three weeks when no major mood episode was present. Mood episodes have occupied most of the total illness duration, and substances and medical causes are excluded.",
+      "correct": "B",
+      "explanation": "The history includes psychosis for at least two weeks outside a major mood episode, while depressive episodes occupy most of the illness duration. Psychosis limited to depression would instead support major depressive disorder with psychotic features."
+    },
+    {
+      "id": "NCE-PCI05-030",
+      "prompt": "What should the counselor do?",
+      "choices": {
+        "A": "Explore the business plan in detail to determine whether it is financially realistic.",
+        "B": "Schedule an extra session later in the week and assign a sleep diary.",
+        "C": "Explain the concern, arrange the urgent evaluation according to policy, and remain engaged through the transfer of care."
+      },
+      "domain": "Provision of Counseling Interventions",
+      "subdomain": "Crisis Response, Psychoeducation & Client Empowerment",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "An outpatient client reports almost no sleep for three nights, speaks rapidly, shifts topics, and describes plans to spend all savings on a new business that must launch today. Agency policy calls for urgent same-day evaluation when marked activation and impaired judgment emerge.",
+      "correct": "C",
+      "explanation": "Severe sleep reduction, marked activation, and impaired financial judgment call for the stated urgent evaluation rather than routine outpatient pacing. A supported transfer maintains connection while moving the client to an appropriate level of assessment."
+    },
+    {
+      "id": "NCE-PCI05-004",
+      "prompt": "What should the group leader do?",
+      "choices": {
+        "A": "Allow the advice because lived experience is the group’s primary therapeutic resource.",
+        "B": "Interrupt the medication advice, restate the group’s scope, and redirect members toward emotional support and questions for qualified prescribers.",
+        "C": "End the discussion of hospitalization so medical issues do not enter the group."
+      },
+      "domain": "Provision of Counseling Interventions",
+      "subdomain": "Group, Couple & Family Counseling",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "In a support group, a member describes a recent psychiatric hospitalization. Another member begins giving specific advice about changing medication doses based on personal experience.",
+      "correct": "B",
+      "explanation": "Specific dose advice exceeds peer-group scope and may create medical risk, so the leader blocks it while preserving supportive discussion. Banning all hospitalization content would unnecessarily restrict clinically meaningful sharing."
+    },
+    {
+      "id": "NCE-INA05-020",
+      "prompt": "What is the best assessment interpretation?",
+      "choices": {
+        "A": "The episodic mood changes prove that the longstanding attention symptoms were never clinically relevant",
+        "B": "Assess a possible attention disorder and a co-occurring bipolar-spectrum condition because chronic and episodic symptoms may represent different processes",
+        "C": "Diagnose only an attention disorder because bipolar symptoms cannot occur in adolescence"
+      },
+      "domain": "Intake & Assessment",
+      "subdomain": "Assessment",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A 16-year-old has been distractible and impulsive since early childhood across home and school. Twice in the past year, the adolescent also had distinct five-day periods of decreased need for sleep, expansive mood, pressured speech, and markedly increased goal-directed activity.",
+      "correct": "B",
+      "explanation": "Longstanding cross-setting attention symptoms and distinct episodic mood changes have different time courses and may coexist. Neither history should automatically erase the other, and adolescence does not preclude bipolar-spectrum assessment."
+    },
+    {
+      "id": "NCE-INA05-001",
+      "prompt": "What should the counselor do during intake?",
+      "choices": {
+        "A": "Accept the request temporarily so the client does not feel rejected",
+        "B": "Ignore the issue because social media expectations are unrelated to counseling consent",
+        "C": "Explain the social media policy, its privacy and boundary rationale, and the approved ways to communicate with the practice"
+      },
+      "domain": "Intake & Assessment",
+      "subdomain": "Intake",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A prospective client sends the counselor a friend request on a personal social media account and assumes online contact will be part of counseling. The practice has a written policy against personal social media connections with clients and uses a separate professional page for general announcements.",
+      "correct": "C",
+      "explanation": "Social media expectations can affect privacy, boundaries, and communication and therefore should be clarified before services. Accepting a personal connection or ignoring the misunderstanding would conflict with the stated practice policy."
+    },
+    {
+      "id": "NCE-PCI05-003",
+      "prompt": "Which counselor response is most appropriate?",
+      "choices": {
+        "A": "“Worksheets are evidence-based, so we should continue using them even when they feel uncomfortable.”",
+        "B": "“We can stop all structured interventions if that is what you prefer.”",
+        "C": "“I hear that I’ve moved to tasks before you felt understood. Let’s slow down now, and I’d like to know what staying with you would look like.”"
+      },
+      "domain": "Provision of Counseling Interventions",
+      "subdomain": "Core Counseling Skills & Therapeutic Alliance",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A client says, “Whenever I talk about something painful, you turn it into a worksheet. Sometimes I need you to stay with what I’m feeling.”",
+      "correct": "C",
+      "explanation": "The counselor receives process feedback, acknowledges the mismatch, and asks the client to help define a more attuned response. Defending worksheets or eliminating every structured method would miss the needed balance between emotional presence and technique."
+    },
+    {
+      "id": "NCE-INA05-022",
+      "prompt": "How should the counselor explain the findings?",
+      "choices": {
+        "A": "Describe the meaningful variation among domains, the limits of the composite, and how results fit with history and functioning",
+        "B": "Report only the composite because differences among domain scores are clinically irrelevant",
+        "C": "State that the lowest domain alone represents the client's overall cognitive ability"
+      },
+      "domain": "Intake & Assessment",
+      "subdomain": "Assessment",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A cognitive assessment yields average verbal reasoning, very low processing speed, and high-average visual-spatial scores. The client asks whether the overall composite means every area of thinking is average.",
+      "correct": "A",
+      "explanation": "A single composite can obscure substantial and clinically relevant variation among cognitive domains. Results should be explained as a pattern and integrated with other evidence rather than reduced to either the overall or lowest score."
+    },
+    {
+      "id": "NCE-PDS05-019",
+      "prompt": "What is the most appropriate response?",
+      "choices": {
+        "A": "Explore the need, help identify independent personal or community resources, and decline a role that conflicts with the counseling relationship",
+        "B": "Accept only the emergency-contact role because it involves less decision-making power",
+        "C": "Accept both roles temporarily until the client develops a larger support network"
+      },
+      "domain": "Professional Development & Counselor Self-Awareness",
+      "subdomain": "Counselor Self-Awareness",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "An isolated client asks the counselor to serve as health care proxy and emergency contact. The counselor feels honored by the trust and worries that declining will confirm the client's belief that no one cares.",
+      "correct": "A",
+      "explanation": "Serving as proxy or emergency contact would add personal authority and obligations that conflict with the counseling role. The counselor can respond to the isolation without converting therapeutic trust into a dual decision-making relationship."
+    },
+    {
+      "id": "NCE-INA05-023",
+      "prompt": "Evidence that a new anxiety measure correlates strongly with established anxiety measures but weakly with unrelated physical-strength measures most directly supports which property?",
+      "choices": {
+        "A": "Test-retest reliability",
+        "B": "Construct validity",
+        "C": "Interrater reliability"
+      },
+      "domain": "Intake & Assessment",
+      "subdomain": "Assessment",
+      "unscored": false,
+      "scenarioBased": false,
+      "scenarioContext": "",
+      "correct": "B",
+      "explanation": "Strong convergence with established measures of the same construct and weak relationships with unrelated constructs support construct validity. These correlations do not assess stability over time or agreement between raters."
+    },
+    {
+      "id": "NCE-PDS05-002",
+      "prompt": "What is the best response?",
+      "choices": {
+        "A": "Use personal relaxation exercises so the counselor can tolerate the same workflow without involving management",
+        "B": "Reduce attention to documentation because direct client time is the only work that affects care",
+        "C": "Address depersonalization and session quality in supervision, seek feasible workflow changes, and establish a recovery plan"
+      },
+      "domain": "Professional Development & Counselor Self-Awareness",
+      "subdomain": "Counselor Self-Awareness",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A community counselor spends increasing time completing duplicate administrative reports and has begun describing clients as \"just another form.\" The counselor rushes sessions, feels detached, and dreads opening the record system each morning.",
+      "correct": "C",
+      "explanation": "Detachment and rushed sessions show that occupational strain is already affecting client care. The response should address both the counselor's functioning and the duplicated workflow rather than relying only on private coping or neglecting records."
+    },
+    {
+      "id": "NCE-PCI05-017",
+      "prompt": "What is the counselor’s best response?",
+      "choices": {
+        "A": "Ask permission to pause, summarize the central themes heard, and collaborate on where to focus the remaining time.",
+        "B": "Continue listening without interruption because stopping the client would be disrespectful.",
+        "C": "Select one detail and interpret its unconscious meaning before the session ends."
+      },
+      "domain": "Provision of Counseling Interventions",
+      "subdomain": "Core Counseling Skills & Therapeutic Alliance",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A client speaks continuously for most of the session, moving through many details without pausing. With ten minutes left, the client says, “I’m not sure I’m getting anywhere.”",
+      "correct": "A",
+      "explanation": "Respectful interruption and summary can organize an unproductive flow while preserving the client’s role in choosing focus. Continuing unchanged ignores the client’s own concern that the session lacks direction."
+    },
+    {
+      "id": "NCE-LEC05-003",
+      "prompt": "What should the clinic do?",
+      "choices": {
+        "A": "Record the request and use only the designated address and communication methods",
+        "B": "Require the client to prove domestic abuse before changing any contact method",
+        "C": "Continue using the home address for billing while using the post office box for clinical mail"
+      },
+      "domain": "Legal & Ethical Compliance",
+      "subdomain": "Privacy, Records & Documentation Compliance",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A client reports that a spouse opens mail sent to the home. The client asks the clinic to send billing correspondence to a post office box and not to leave messages at the home number. The applicable privacy rule requires reasonable requests for confidential communications to be accommodated.",
+      "correct": "A",
+      "explanation": "The scenario states that the reasonable confidential-communication request must be accommodated. Requiring proof not called for by the rule or continuing to use the unsafe home address would defeat the client's requested protection."
+    },
+    {
+      "id": "NCE-ICC05-013",
+      "prompt": "How should the counselor document the encounter?",
+      "choices": {
+        "A": "Record the actual duration, work completed, reason for ending early as the client reported it, and the follow-up plan",
+        "B": "Record the full scheduled duration because the early departure was unrelated to counseling",
+        "C": "Describe the client as noncompliant and omit the partially completed work"
+      },
+      "domain": "Indirect Client Care",
+      "subdomain": "Clinical Documentation & Session Preparation",
+      "unscored": true,
+      "scenarioBased": true,
+      "scenarioContext": "A client leaves a scheduled counseling session 20 minutes early because a childcare provider calls with an urgent problem. The counselor and client partially complete the planned topic and schedule follow-up. The client shows no acute clinical concern.",
+      "correct": "A",
+      "explanation": "Accurate documentation reflects the service actually delivered and the known reason for its early end. It also preserves the partially completed work and continuity plan. Recording the scheduled duration or labeling noncompliance would misrepresent the encounter."
+    },
+    {
+      "id": "NCE-LEC05-012",
+      "prompt": "What change is most appropriate?",
+      "choices": {
+        "A": "Keep the design because clients can search for and clear any box they dislike",
+        "B": "Require affirmative, unselected choices with readable terms and preserve the resulting consent record",
+        "C": "Collect the authorizations after the first session so the initial screen remains brief"
+      },
+      "domain": "Legal & Ethical Compliance",
+      "subdomain": "Technology, AI & Telemental Health Compliance",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "An electronic intake system presents optional authorizations with every checkbox already selected. Clicking \"Continue\" records agreement to all uses without requiring clients to review or affirm each choice.",
+      "correct": "B",
+      "explanation": "Preselected authorizations obscure whether the client made a knowing, voluntary choice. An affirmative design with understandable terms and a reliable record better supports valid electronic consent."
+    },
+    {
+      "id": "NCE-INA05-010",
+      "prompt": "Which mental status function is this task primarily sampling?",
+      "choices": {
+        "A": "Attention and concentration",
+        "B": "Long-term autobiographical memory",
+        "C": "Insight into illness"
+      },
+      "domain": "Intake & Assessment",
+      "subdomain": "Assessment",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "During a mental status examination, the counselor asks a client to recite the months of the year backward. The client understands the task but repeatedly loses place and cannot complete it.",
+      "correct": "A",
+      "explanation": "Reciting months backward requires sustained attention, working concentration, and mental tracking. It does not primarily test distant autobiographical memory or awareness of illness."
+    },
+    {
+      "id": "NCE-ICC05-011",
+      "prompt": "What would best support continuity across locations?",
+      "choices": {
+        "A": "Ask Ana to retell the entire history whenever she arrives in the other region",
+        "B": "Create a client-approved portable action summary with current contacts, completed steps, pending tasks, and a confirmed handoff",
+        "C": "Have both teams work on every task simultaneously so nothing is missed"
+      },
+      "domain": "Indirect Client Care",
+      "subdomain": "Care Coordination & Stakeholder Collaboration",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "Ana is a seasonal agricultural worker who moves between two regions. She authorizes community health workers and counselors in both locations to coordinate. Each move has caused pending transportation, benefits, and appointment tasks to be restarted because the next team cannot tell what was completed.",
+      "correct": "B",
+      "explanation": "A concise action summary can move with Ana and prevent tasks from restarting or disappearing at each transition. Confirmation with the receiving team closes the handoff while keeping Ana informed. Duplicating every task across both regions would create confusion and wasted effort."
+    },
+    {
+      "id": "NCE-INA05-009",
+      "prompt": "What is the best intake response?",
+      "choices": {
+        "A": "Close the referral because unreliable broadband proves that remote counseling cannot work",
+        "B": "Promise telephone counseling without assessing privacy, clinical needs, or emergency access",
+        "C": "Review the client's technology, privacy, clinical needs, and available formats, then determine whether telephone, periodic in-person, or another referral is suitable"
+      },
+      "domain": "Intake & Assessment",
+      "subdomain": "Intake",
+      "unscored": true,
+      "scenarioBased": true,
+      "scenarioContext": "A rural client has unstable broadband and cannot reliably use the clinic's secure video platform. Clinic policy permits telephone counseling when the counselor determines it is clinically suitable, and an in-person site is available twice each month.",
+      "correct": "C",
+      "explanation": "Modality selection should integrate practical access with privacy, clinical appropriateness, and emergency planning. Unreliable broadband does not automatically end the referral, but telephone service should not be promised before suitability is assessed."
+    },
+    {
+      "id": "NCE-TPC05-015",
+      "prompt": "How should the counselor use this outcome information?",
+      "choices": {
+        "A": "Increase the required detail because more complete records may eventually reduce rumination",
+        "B": "Replace the burdensome task with a briefer strategy and monitor whether mood and functioning improve",
+        "C": "Keep the intervention unchanged until the original treatment period ends so the trial remains standardized"
+      },
+      "domain": "Treatment Planning & Continuity of Care",
+      "subdomain": "Treatment Planning",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A client consistently completes detailed daily thought records for depression but reports spending up to two hours analyzing each entry and feeling more stuck afterward. The records show little connection between additional detail and mood improvement.",
+      "correct": "B",
+      "explanation": "The client completes the assignment, but the available outcome information links excessive detail with rumination and no demonstrated benefit. Revising the intervention tests a better fit rather than equating more effort with greater effectiveness."
+    },
+    {
+      "id": "NCE-INA05-013",
+      "prompt": "Which procedure provides an estimate of split-half reliability?",
+      "choices": {
+        "A": "Comparing test scores with a later external outcome",
+        "B": "Having two clinicians independently rate one interview",
+        "C": "Correlating scores from two comparable halves of the same instrument"
+      },
+      "domain": "Intake & Assessment",
+      "subdomain": "Assessment",
+      "unscored": false,
+      "scenarioBased": false,
+      "scenarioContext": "",
+      "correct": "C",
+      "explanation": "Split-half reliability estimates internal consistency by comparing performance on equivalent portions of one measure. External outcomes concern validity, while two clinician ratings concern interrater reliability."
+    },
+    {
+      "id": "NCE-TPC05-011",
+      "prompt": "Which response best protects continuity?",
+      "choices": {
+        "A": "Persuade the client to remain for several more months so the relationship has time to improve",
+        "B": "End the case immediately so the client's preference does not influence the receiving clinician",
+        "C": "Explore transition needs, facilitate the chosen transfer, and clarify information sharing and appointment timing"
+      },
+      "domain": "Treatment Planning & Continuity of Care",
+      "subdomain": "Continuity of Care",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A client says the current counselor's structured style is not a good fit and requests transfer to another clinician in the agency. The client has no acute safety concern, wants treatment to continue, and agrees to a transition discussion.",
+      "correct": "C",
+      "explanation": "The client has identified a fit concern and wants care to continue, making a planned transfer appropriate. Pressuring the client to remain or ending without coordination would create avoidable barriers to ongoing treatment."
+    },
+    {
+      "id": "NCE-LEC05-028",
+      "prompt": "Which control best protects claim integrity when billing software automatically suggests procedure codes?",
+      "choices": {
+        "A": "Submit every suggested code because the software vendor is responsible for coding accuracy",
+        "B": "Select the highest-paying suggested code whenever more than one code appears plausible",
+        "C": "Compare each code with the service, documentation, and payer rules before claim submission"
+      },
+      "domain": "Legal & Ethical Compliance",
+      "subdomain": "Billing, Business Practices & Emergency Readiness",
+      "unscored": false,
+      "scenarioBased": false,
+      "scenarioContext": "",
+      "correct": "C",
+      "explanation": "Automated suggestions do not transfer claim responsibility from the practice. Review against the actual service and documentation prevents unsupported coding, including selection based on reimbursement rather than accuracy."
+    },
+    {
+      "id": "NCE-INA05-006",
+      "prompt": "What should the counselor clarify?",
+      "choices": {
+        "A": "Animal-assisted work is optional, its relevant benefits and risks, and the available counseling alternative without an animal",
+        "B": "Exposure to the dog is required before the client's fear can be assessed",
+        "C": "The client must accept every modality offered by the practice to receive counseling"
+      },
+      "domain": "Intake & Assessment",
+      "subdomain": "Intake",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A counseling practice offers optional animal-assisted sessions as well as sessions without an animal. A new client has a severe fear of dogs and believes declining animal involvement will make the client ineligible for care.",
+      "correct": "A",
+      "explanation": "The client should understand that the modality is optional and that a nonanimal alternative is available. Requiring exposure before assessment would misrepresent the service and prevent informed choice."
+    },
+    {
+      "id": "NCE-PDS05-015",
+      "prompt": "What is the best professional development decision?",
+      "choices": {
+        "A": "Use the adult protocol unchanged because the anxiety symptoms have the same name",
+        "B": "Shorten each adult exercise and ask parents to supervise the work at home",
+        "C": "Review child-specific evidence and obtain developmentally appropriate training and supervision before offering the intervention"
+      },
+      "domain": "Professional Development & Counselor Self-Awareness",
+      "subdomain": "Professional Development",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A counselor trained in an evidence-supported anxiety intervention for adults is asked to use the same protocol with children. The training did not cover developmental adaptation, caregiver involvement, or evidence for younger populations.",
+      "correct": "C",
+      "explanation": "A diagnosis label does not make an adult protocol developmentally suitable for children. Evidence, caregiver roles, adaptation, and child-focused supervised skill must be addressed before the counselor represents competence."
+    },
+    {
+      "id": "NCE-PCI05-034",
+      "prompt": "How should the counselor adapt the intervention?",
+      "choices": {
+        "A": "Require seated practice until restlessness stops because movement prevents mindfulness.",
+        "B": "Teach mindful walking by directing attention to steps, sensations, and gently returning focus when the mind wanders.",
+        "C": "Replace attention training with discussion because mindfulness is effective only when the body is still."
+      },
+      "domain": "Provision of Counseling Interventions",
+      "subdomain": "Evidence-Based & Culturally Responsive Interventions",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A client wants an attention-training practice but becomes restless during seated meditation and enjoys walking outdoors. The client can walk safely and is interested in a movement-based option.",
+      "correct": "B",
+      "explanation": "Mindfulness can be practiced through movement when attention is intentionally returned to present-moment experience. Adapting the form to the client’s preferences preserves the skill’s function without requiring stillness."
+    },
+    {
+      "id": "NCE-INA05-003",
+      "prompt": "What is the most appropriate intake response?",
+      "choices": {
+        "A": "Explain the record-retention policy, what is documented, applicable access and correction procedures, and the limits of the client's deletion request",
+        "B": "Promise immediate deletion and disregard the clinic policy once counseling begins",
+        "C": "Refuse to discuss records because documentation practices are not part of informed consent"
+      },
+      "domain": "Intake & Assessment",
+      "subdomain": "Intake",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A new client asks the counselor to delete every note immediately after each session. Clinic policy requires records to be maintained for a stated retention period and permits clients to request access or correction through specified procedures.",
+      "correct": "A",
+      "explanation": "Record practices and the limits of client control are material to informed expectations. The counselor should not promise deletion that conflicts with the stated policy or withhold information about documentation."
+    },
+    {
+      "id": "NCE-ICC05-019",
+      "prompt": "How should the counselor document the current assessment?",
+      "choices": {
+        "A": "Confirm a trauma-related diagnosis because nightmares and avoidance are sufficient",
+        "B": "Record the reported symptoms, the current clinical considerations, the missing information, and the plan for further assessment",
+        "C": "Omit the symptoms until enough information exists to assign a diagnosis"
+      },
+      "domain": "Indirect Client Care",
+      "subdomain": "Clinical Documentation & Session Preparation",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A client reports nightmares and avoidance after a frightening event. The counselor has not yet established symptom duration, functional impact, or the other information needed to determine whether a trauma-related diagnosis is supported.",
+      "correct": "B",
+      "explanation": "The symptoms are clinically relevant even though the available information does not establish a diagnosis. Documenting what is known, what remains uncertain, and how it will be assessed preserves accurate reasoning. Confirming a diagnosis now would exceed the evidence."
+    },
+    {
+      "id": "NCE-PCI05-025",
+      "prompt": "What is the counselor’s best immediate intervention with the caregiver?",
+      "choices": {
+        "A": "Begin long-term work on anticipatory grief before discussing tonight’s needs.",
+        "B": "Help arrange shared supervision for tonight, support brief regulation, and identify one follow-up step for a broader safety plan.",
+        "C": "Reassure the caregiver that wandering probably will not happen again after such a frightening event."
+      },
+      "domain": "Provision of Counseling Interventions",
+      "subdomain": "Crisis Response, Psychoeducation & Client Empowerment",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "An older adult with mild cognitive impairment wandered from home and was found safely. The adult child caregiver is shaken, cannot stop checking the door, and says, “I can never sleep again.” Other family support is available tonight.",
+      "correct": "B",
+      "explanation": "The caregiver needs immediate rest and practical coverage before more extensive planning. Available family support can reduce the current burden, while reassurance that wandering will not recur is unsupported."
+    },
+    {
+      "id": "NCE-PCI05-020",
+      "prompt": "What is a warm handoff in crisis-related care?",
+      "choices": {
+        "A": "An active connection to another provider or resource, ideally with the client present and next steps confirmed.",
+        "B": "A written list of services given to the client to contact independently after counseling ends.",
+        "C": "A referral delayed until the counselor can guarantee that the receiving service will solve the crisis."
+      },
+      "domain": "Provision of Counseling Interventions",
+      "subdomain": "Crisis Response, Psychoeducation & Client Empowerment",
+      "unscored": false,
+      "scenarioBased": false,
+      "scenarioContext": "",
+      "correct": "A",
+      "explanation": "A warm handoff reduces the gap between referral and engagement by making an active bridge and clarifying what happens next. A passive list leaves the full navigation burden with a person already in crisis."
+    },
+    {
+      "id": "NCE-PCI05-019",
+      "prompt": "What is the leader’s best response?",
+      "choices": {
+        "A": "Ignore the relationship unless another member formally complains.",
+        "B": "Revisit the agreement, explore the relationship’s impact on the group, and address participation options without public shaming.",
+        "C": "Require the couple to describe private details so the group can decide whether the relationship is harmful."
+      },
+      "domain": "Provision of Counseling Interventions",
+      "subdomain": "Group, Couple & Family Counseling",
+      "unscored": true,
+      "scenarioBased": true,
+      "scenarioContext": "Two members of a therapy group disclose that they recently began dating each other. The group agreement discourages romantic relationships among current members because of effects on safety and participation.",
+      "correct": "B",
+      "explanation": "The relationship affects boundaries and group safety and therefore requires direct, respectful attention. Demanding intimate details would violate privacy, while ignoring the issue leaves the known agreement and group impact unaddressed."
+    },
+    {
+      "id": "NCE-INA05-015",
+      "prompt": "What should the counselor do during intake?",
+      "choices": {
+        "A": "Explore the client's own concerns and goals, clarify the referral and possible communication, and obtain specific permission before contacting the physician",
+        "B": "Adopt stress management as the treatment goal because the physician initiated the referral",
+        "C": "Send a complete intake summary to the physician before asking the client about disclosure preferences"
+      },
+      "domain": "Intake & Assessment",
+      "subdomain": "Intake",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A physician referred a client for stress management, but the client says the main concern is grief and is unsure what the physician expects the counselor to report. No release of information has been signed.",
+      "correct": "A",
+      "explanation": "A referral source does not replace the client's account or determine counseling goals automatically. Communication with the physician should be explained and authorized rather than assumed."
+    },
+    {
+      "id": "NCE-PCI05-028",
+      "prompt": "What should the counselor do?",
+      "choices": {
+        "A": "Choose the safest plan because the siblings cannot agree.",
+        "B": "Redirect the conversation to the mother’s goals and preferences, then facilitate family discussion about how to support them.",
+        "C": "Ask the mother to wait outside while the siblings resolve their conflict."
+      },
+      "domain": "Provision of Counseling Interventions",
+      "subdomain": "Group, Couple & Family Counseling",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "Adult siblings argue about care for their mother while she sits quietly in the family session. They repeatedly ask the counselor to choose a plan without asking their mother what she wants. The mother has decision-making capacity.",
+      "correct": "B",
+      "explanation": "Because the mother has decision-making capacity, her values should organize planning rather than be displaced by sibling conflict. Choosing for her or excluding her would undermine autonomy."
+    },
+    {
+      "id": "NCE-PDS05-009",
+      "prompt": "What is the most self-aware response?",
+      "choices": {
+        "A": "Confirm the client's account because the client initiated the public disclosure",
+        "B": "Ask the client to remove only the diagnosis while preserving the counselor's public endorsement",
+        "C": "Decline to verify the counseling relationship publicly and explore the request, power difference, and counselor's interest in recognition"
+      },
+      "domain": "Professional Development & Counselor Self-Awareness",
+      "subdomain": "Counselor Self-Awareness",
+      "unscored": true,
+      "scenarioBased": true,
+      "scenarioContext": "A client nominates the counselor for a community award and asks the counselor to confirm publicly that counseling changed the client's life. The counselor wants the recognition and believes the client's praise could attract referrals.",
+      "correct": "C",
+      "explanation": "The client's initiation does not remove the power difference or the counselor's responsibility to avoid using the relationship for publicity. The counselor's desire for recognition is especially important to examine while discussing the request privately with the client."
+    },
+    {
+      "id": "NCE-TPC05-023",
+      "prompt": "Which planning decision is most appropriate?",
+      "choices": {
+        "A": "Recommend the Saturday group because treatment schedules should remain separate from religious practice",
+        "B": "Ask the client to try one Saturday session before determining whether attendance is a genuine barrier",
+        "C": "Offer the equivalent weekday group and document the client's selected feasible modality"
+      },
+      "domain": "Treatment Planning & Continuity of Care",
+      "subdomain": "Treatment Planning",
+      "unscored": true,
+      "scenarioBased": true,
+      "scenarioContext": "An observant Orthodox Jewish client is interested in a stress-management group but cannot attend its Saturday meetings. An equivalent weekday group has openings and meets the same clinical need.",
+      "correct": "C",
+      "explanation": "The weekday group meets the same clinical need while respecting a clearly stated scheduling constraint. Requiring a violation of observance or a trial of the inaccessible time would create an unnecessary barrier."
+    },
+    {
+      "id": "NCE-PCI05-009",
+      "prompt": "What is the counselor’s best response?",
+      "choices": {
+        "A": "Reassure the client that other clients’ problems are not more serious.",
+        "B": "Shift to a coping skill so the client does not become embarrassed by continued crying.",
+        "C": "“You don’t need to apologize for your emotion here. What is happening for you as the tears come?”"
+      },
+      "domain": "Provision of Counseling Interventions",
+      "subdomain": "Core Counseling Skills & Therapeutic Alliance",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A client begins crying and immediately says, “I’m sorry. I know you have clients with real problems.”",
+      "correct": "C",
+      "explanation": "The response accepts the emotion and explores the client’s immediate experience without comparing suffering. Premature coping would communicate that the tears need to be stopped rather than understood."
+    },
+    {
+      "id": "NCE-ICC05-008",
+      "prompt": "How should the counselor revise the note?",
+      "choices": {
+        "A": "Keep the percentage because a current score of 8 is consistent with substantial improvement",
+        "B": "Record the current score and the available qualitative comparison without claiming an unsupported percentage",
+        "C": "Estimate a baseline score from the word \"moderate\" and use it to calculate the percentage"
+      },
+      "domain": "Indirect Client Care",
+      "subdomain": "Clinical Documentation & Session Preparation",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A counselor's draft note states that a client has shown \"50% improvement\" because the client's current anxiety score is 8. The earlier record describes anxiety as moderate but contains no baseline numerical score from the same measure.",
+      "correct": "B",
+      "explanation": "A percentage change requires comparable numerical data at both points. The earlier qualitative description can be documented, but it cannot supply a precise baseline score. Estimating a number would create false measurement precision."
+    },
+    {
+      "id": "NCE-ICC05-007",
+      "prompt": "What should the counselor recommend?",
+      "choices": {
+        "A": "Require the client to obtain a smartphone so the team can keep one communication system",
+        "B": "Let the providers continue using the application and ask one member to summarize decisions afterward",
+        "C": "Establish a client-accessible update method and keep it synchronized with the team's internal system"
+      },
+      "domain": "Indirect Client Care",
+      "subdomain": "Care Coordination & Stakeholder Collaboration",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A community support team posts schedules and task updates in a project-management application. The client has only a prepaid telephone with text messaging and cannot open the application reliably. The client has authorized team communication but repeatedly receives updates after decisions have been made.",
+      "correct": "C",
+      "explanation": "Coordination should not exclude the client from timely information simply because providers prefer a particular application. A synchronized text or other accessible pathway can preserve both team efficiency and client participation. Summaries delivered only after decisions are made do not solve the access problem."
+    },
+    {
+      "id": "NCE-LEC05-025",
+      "prompt": "How should the practice respond?",
+      "choices": {
+        "A": "Refuse because a secure portal is available and therefore must be used",
+        "B": "Send the records immediately without discussing the transmission risk",
+        "C": "Warn the client, confirm the request and address, apply reasonable safeguards, and send the copy as directed"
+      },
+      "domain": "Legal & Ethical Compliance",
+      "subdomain": "Privacy, Records & Documentation Compliance",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A client requests a copy of personal records by ordinary unencrypted email after the practice offers a secure portal. The applicable access rule permits the client to choose unencrypted email after receiving a brief risk warning and confirming the request.",
+      "correct": "C",
+      "explanation": "The scenario expressly permits the client to select unencrypted email after acknowledging the risk. Refusing the requested method would disregard the access right, while sending without warning would omit a required safeguard."
+    },
+    {
+      "id": "NCE-PCI05-023",
+      "prompt": "Which description best reflects therapeutic confrontation?",
+      "choices": {
+        "A": "Respectfully presenting a meaningful discrepancy and inviting the client to examine it.",
+        "B": "Proving that the client’s account is inconsistent so resistance decreases.",
+        "C": "Warning the client about consequences in a forceful manner."
+      },
+      "domain": "Provision of Counseling Interventions",
+      "subdomain": "Core Counseling Skills & Therapeutic Alliance",
+      "unscored": true,
+      "scenarioBased": false,
+      "scenarioContext": "",
+      "correct": "A",
+      "explanation": "Therapeutic confrontation is collaborative and tentative rather than adversarial. Its purpose is to increase awareness and exploration, not to defeat resistance or warn the client forcefully."
+    },
+    {
+      "id": "NCE-INA05-002",
+      "prompt": "Which diagnosis is most consistent with the presentation?",
+      "choices": {
+        "A": "Language disorder",
+        "B": "Selective mutism",
+        "C": "Autism spectrum disorder"
+      },
+      "domain": "Intake & Assessment",
+      "subdomain": "Assessment",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "An 8-year-old speaks freely with family at home but has not spoken at school for four months, despite understanding the language used there. The child communicates nonverbally with classmates, appears anxious when expected to speak, and has no speech disorder or unfamiliarity with the school language.",
+      "correct": "B",
+      "explanation": "The child consistently speaks in one setting but not at school for longer than one month despite knowing the language and having no speech disorder. The pattern and associated anxiety support selective mutism rather than a global language or social-communication condition."
+    },
+    {
+      "id": "NCE-LEC05-005",
+      "prompt": "What is the most appropriate step before donating or recycling a laptop that previously stored electronic client information?",
+      "choices": {
+        "A": "Use an approved sanitization or destruction method and verify that protected data cannot be recovered",
+        "B": "Delete the visible client folders and place the laptop in an ordinary electronics donation bin",
+        "C": "Remove the counselor's user profile while leaving the operating system and recovery partition intact"
+      },
+      "domain": "Legal & Ethical Compliance",
+      "subdomain": "Technology, AI & Telemental Health Compliance",
+      "unscored": false,
+      "scenarioBased": false,
+      "scenarioContext": "",
+      "correct": "A",
+      "explanation": "Ordinary deletion and profile removal may leave recoverable information on the device or its recovery media. Verified sanitization or destruction addresses the full data lifecycle before control of the laptop is transferred."
+    },
+    {
+      "id": "NCE-INA05-028",
+      "prompt": "In an approximately normal distribution, about what proportion of scores falls within one standard deviation above or below the mean?",
+      "choices": {
+        "A": "68%",
+        "B": "50%",
+        "C": "95%"
+      },
+      "domain": "Intake & Assessment",
+      "subdomain": "Assessment",
+      "unscored": false,
+      "scenarioBased": false,
+      "scenarioContext": "",
+      "correct": "A",
+      "explanation": "In an approximately normal distribution, about 68% of observations lie within one standard deviation of the mean. About 95% lie within two standard deviations."
+    },
+    {
+      "id": "NCE-LEC05-004",
+      "prompt": "What should the counselor do?",
+      "choices": {
+        "A": "Accept because national certification replaces state licensure for a short shift",
+        "B": "Accept after informing clients that the state license is currently inactive",
+        "C": "Complete board reactivation before providing professional counseling"
+      },
+      "domain": "Legal & Ethical Compliance",
+      "subdomain": "Licensure, Scope & Professional Accountability",
+      "unscored": true,
+      "scenarioBased": true,
+      "scenarioContext": "A state's licensing rule states that an inactive counseling license does not authorize any professional counseling. Reactivation requires board approval before services resume. A nationally certified counselor with an inactive state license is offered a weekend counseling shift.",
+      "correct": "C",
+      "explanation": "The supplied rule makes an inactive state license insufficient authority to practice, regardless of national certification or the shift's duration. Client disclosure cannot convert unauthorized practice into lawful practice."
+    },
+    {
+      "id": "NCE-PDS05-020",
+      "prompt": "What is a primary benefit of interprofessional learning for counselors?",
+      "choices": {
+        "A": "It authorizes counselors to provide services normally performed by every profession represented",
+        "B": "It improves understanding of other roles and collaboration while preserving each profession's competence boundaries",
+        "C": "It removes the need for referral because the counselor can incorporate the other professionals' tasks"
+      },
+      "domain": "Professional Development & Counselor Self-Awareness",
+      "subdomain": "Professional Development",
+      "unscored": false,
+      "scenarioBased": false,
+      "scenarioContext": "",
+      "correct": "B",
+      "explanation": "Interprofessional learning supports clearer coordination, referrals, and communication. It does not authorize a counselor to assume another profession's functions or eliminate the need for referral."
+    },
+    {
+      "id": "NCE-ICC05-006",
+      "prompt": "What is the best response?",
+      "choices": {
+        "A": "Schedule the qualified woman interpreter, or discuss other acceptable qualified options if Farah's needs change",
+        "B": "Use the male interpreter immediately because professional qualification makes client preference irrelevant",
+        "C": "Ask Farah to bring a woman friend who can interpret instead of delaying the intake"
+      },
+      "domain": "Indirect Client Care",
+      "subdomain": "Referral, Medication & Language Support",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "Farah requests a woman interpreter for a trauma-focused intake. A qualified woman interpreter is available the next day, while a qualified man is available immediately. Farah reports no urgent concern and says she is comfortable waiting for the woman interpreter.",
+      "correct": "A",
+      "explanation": "Farah has expressed a communication preference relevant to her ability to participate in a trauma-focused intake. A qualified interpreter who meets that preference is available without creating an urgent delay. A friend would not be an equivalent substitute for qualified language support."
+    },
+    {
+      "id": "NCE-PCI05-024",
+      "prompt": "What is the counselor’s best intervention?",
+      "choices": {
+        "A": "Ask the ill partner to complete more tasks immediately to restore equality.",
+        "B": "Focus only on the caregiving partner’s burnout because it is the urgent issue.",
+        "C": "Externalize the workload problem, validate both experiences, and coach a specific request-and-response conversation about support."
+      },
+      "domain": "Provision of Counseling Interventions",
+      "subdomain": "Group, Couple & Family Counseling",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "One partner has a chronic illness, and the other has taken on most household tasks. The caregiving partner says, “I’m exhausted,” while the ill partner hears, “You are a burden.” Both withdraw.",
+      "correct": "C",
+      "explanation": "The intervention separates the problem from either partner’s worth and helps them communicate needs without translating exhaustion into blame. Immediate equal task division may be medically unrealistic, while focusing on only one partner reinforces disconnection."
+    },
+    {
+      "id": "NCE-PDS05-008",
+      "prompt": "Which response best addresses counselor-client fit?",
+      "choices": {
+        "A": "Arrange care with the other counselor because the family information and evaluative role create conflicting responsibilities",
+        "B": "Accept the client but promise not to use any family information during the intern's evaluation",
+        "C": "Ask the intern for permission before deciding whether to accept the sibling as a client"
+      },
+      "domain": "Professional Development & Counselor Self-Awareness",
+      "subdomain": "Counselor Self-Awareness",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A counselor is assigned a new client who is the sibling of an intern the counselor currently supervises and evaluates. The client wants to discuss long-standing family conflict involving that intern, and another qualified counselor is available.",
+      "correct": "A",
+      "explanation": "Counseling the intern's sibling would expose the supervisor to family information directly related to a person the counselor evaluates. An available alternative avoids placing confidentiality, objectivity, and supervisory power in conflict."
+    },
+    {
+      "id": "NCE-PCI05-031",
+      "prompt": "What is the counselor’s best response?",
+      "choices": {
+        "A": "Continue because asking again about privacy may interrupt disclosure.",
+        "B": "Pause and discreetly confirm whether the client still has the level of privacy desired before proceeding.",
+        "C": "End the session immediately because privacy can no longer be guaranteed."
+      },
+      "domain": "Provision of Counseling Interventions",
+      "subdomain": "Core Counseling Skills & Therapeutic Alliance",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "During a telehealth session, the client begins discussing a sensitive relationship issue. The counselor notices another person’s reflection moving behind the client, although the client had said the room was private at the start.",
+      "correct": "B",
+      "explanation": "Telehealth privacy can change during a session, and sensitive disclosure should continue only with the client’s informed awareness of the setting. An observed movement does not automatically require ending, but it warrants a respectful check."
+    },
+    {
+      "id": "NCE-LEC05-026",
+      "prompt": "What should the clinical director do?",
+      "choices": {
+        "A": "Delay assignment and resolve the applicant's identity and license status through authoritative sources",
+        "B": "Accept the PDF because possession of a license image proves the applicant's current authority",
+        "C": "Ignore the name and restriction because the license number appears in the board registry"
+      },
+      "domain": "Legal & Ethical Compliance",
+      "subdomain": "Licensure, Scope & Professional Accountability",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "An applicant gives a clinic a PDF image of a counseling license. The licensing board's primary-source registry shows the same license number with a different middle name and an active practice restriction. Clinic policy requires primary-source verification and resolution of identity discrepancies before client assignment.",
+      "correct": "A",
+      "explanation": "The primary-source record raises material questions about both identity and authorization to practice. A copied document or matching number cannot override an unresolved name discrepancy and active board restriction."
+    },
+    {
+      "id": "NCE-PCI05-026",
+      "prompt": "Which intervention is most culturally responsive?",
+      "choices": {
+        "A": "Broach how racialized and gendered expectations of strength affect her, then collaborate on forms of support that fit her values.",
+        "B": "Emphasize that resilience is a personal strength and encourage her to continue relying on it.",
+        "C": "Avoid discussing identity because the client has not described every experience as discriminatory."
+      },
+      "domain": "Provision of Counseling Interventions",
+      "subdomain": "Evidence-Based & Culturally Responsive Interventions",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A Black woman describes being praised for “always being strong” while feeling unable to ask for help. She wonders whether counseling will also expect endurance rather than make room for vulnerability.",
+      "correct": "A",
+      "explanation": "The client has explicitly raised a culturally shaped expectation, making respectful broaching and client-defined support appropriate. Simply praising resilience can reproduce the pressure to endure without receiving care."
+    },
+    {
+      "id": "NCE-PDS05-014",
+      "prompt": "How can self-compassion support responsible counselor self-reflection?",
+      "choices": {
+        "A": "It can reduce defensive self-judgment enough to acknowledge limits and take corrective action",
+        "B": "It allows counselors to excuse errors when their intentions were positive",
+        "C": "It makes external feedback unnecessary because the counselor can self-evaluate without shame"
+      },
+      "domain": "Professional Development & Counselor Self-Awareness",
+      "subdomain": "Counselor Self-Awareness",
+      "unscored": false,
+      "scenarioBased": false,
+      "scenarioContext": "",
+      "correct": "A",
+      "explanation": "Self-compassion can make honest reflection more tolerable and support accountability rather than avoidance. It does not excuse errors or eliminate the need for external feedback."
+    },
+    {
+      "id": "NCE-TPC05-001",
+      "prompt": "What is the best continuity response?",
+      "choices": {
+        "A": "Use the predefined criteria to review needs and temporarily increase support before further deterioration",
+        "B": "Maintain monthly visits until the client again meets full diagnostic criteria for a depressive episode",
+        "C": "Discharge the client because needing more support shows that maintenance counseling was ineffective"
+      },
+      "domain": "Treatment Planning & Continuity of Care",
+      "subdomain": "Continuity of Care",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A client with recurrent depression moved from weekly counseling to monthly maintenance after sustained improvement. The maintenance plan states that missing work twice in one week and withdrawing from a weekly community activity will trigger review for increased support. Both events occur this week, and the client requests help early.",
+      "correct": "A",
+      "explanation": "The maintenance plan identifies these functional changes as early signals for review, and the client is seeking help at that point. Waiting for a full episode would defeat the purpose of stepped maintenance, while discharge would misinterpret appropriate early reengagement as failure."
+    },
+    {
+      "id": "NCE-PCI05-021",
+      "prompt": "What is the counselor’s best response?",
+      "choices": {
+        "A": "Explain that the client will understand more easily after becoming familiar with the accent.",
+        "B": "Suggest that the client read the counselor’s written summaries instead of discussing the issue.",
+        "C": "Thank the client for saying so, invite requests for repetition, and adjust pace and wording while checking understanding."
+      },
+      "domain": "Provision of Counseling Interventions",
+      "subdomain": "Core Counseling Skills & Therapeutic Alliance",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A client tells the counselor, “Your accent is difficult for me to understand, and I’ve been pretending because I didn’t want to offend you.”",
+      "correct": "C",
+      "explanation": "The counselor welcomes feedback and shares responsibility for accessible communication without defensiveness. Expecting passive adaptation or substituting written material does not address the live communication barrier."
+    },
+    {
+      "id": "NCE-PDS05-017",
+      "prompt": "Which response is most appropriate?",
+      "choices": {
+        "A": "Gather student input and program data, learn funding and accreditation constraints, and advocate with partners for feasible paid or supported placements",
+        "B": "Encourage affected students to borrow more because internship hardship is a normal part of professional development",
+        "C": "Lower required internship hours for individual students without examining training standards or broader solutions"
+      },
+      "domain": "Professional Development & Counselor Self-Awareness",
+      "subdomain": "Professional Development",
+      "unscored": true,
+      "scenarioBased": true,
+      "scenarioContext": "A counseling program relies on unpaid internships, and students with limited financial resources are disproportionately delaying graduation or leaving the program. A faculty counselor wants to advocate for more equitable professional training access.",
+      "correct": "A",
+      "explanation": "Equitable advocacy should preserve training quality while addressing the financial barrier with accurate information and affected-student input. Individual borrowing or unexamined reduction of requirements does not address the systemic access problem."
+    },
+    {
+      "id": "NCE-LEC05-022",
+      "prompt": "What should the counselor do?",
+      "choices": {
+        "A": "Agree if the facility pays a monthly fee for use of the license information",
+        "B": "Agree after arranging one brief telephone call with the director each month",
+        "C": "Refuse the false designation and do not permit use of the counselor's license for the attestation"
+      },
+      "domain": "Legal & Ethical Compliance",
+      "subdomain": "Licensure, Scope & Professional Accountability",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "An unlicensed program director asks a licensed counselor to let a facility list the counselor as clinical director for a regulatory renewal. The counselor would not supervise staff, review records, or hold operational authority. The required attestation certifies that the named clinician actually performs those responsibilities.",
+      "correct": "C",
+      "explanation": "The attestation certifies actual clinical responsibility that the counselor would not perform. Payment or occasional calls cannot make the regulatory statement truthful or satisfy the required oversight role."
+    },
+    {
+      "id": "NCE-TPC05-005",
+      "prompt": "Which behavioral plan best fits the available information?",
+      "choices": {
+        "A": "Use time-out after every hit without changing transition cues or teaching another response",
+        "B": "Allow each adult to handle transitions differently so the child learns to adapt across settings",
+        "C": "Provide a visual countdown, teach the request, reinforce safe transitions, and record hitting frequency"
+      },
+      "domain": "Treatment Planning & Continuity of Care",
+      "subdomain": "Treatment Planning",
+      "unscored": true,
+      "scenarioBased": true,
+      "scenarioContext": "A 4-year-old in preschool hits peers most often when play ends without warning. The child responds to picture cues, can request “one more minute,” and enjoys praise from the teacher. The counselor, caregiver, and teacher are developing a consistent plan.",
+      "correct": "C",
+      "explanation": "The plan addresses the predictable antecedent, teaches an available replacement response, uses an effective reinforcer, and creates outcome data. Punishment alone or inconsistent adult responses would not use the functional information supplied."
+    },
+    {
+      "id": "NCE-PDS05-011",
+      "prompt": "Which action would best address this pattern?",
+      "choices": {
+        "A": "Ask clients to rate their own motivation so the counselor's impressions can be confirmed",
+        "B": "Examine session behavior and outcomes across clients, use supervision and bias-focused learning, and correct status-based assumptions",
+        "C": "Use identical session scripts for every client so occupational status cannot affect counseling"
+      },
+      "domain": "Professional Development & Counselor Self-Awareness",
+      "subdomain": "Counselor Self-Awareness",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A counselor notices feeling more engaged with clients who hold prestigious jobs and moving quickly through sessions with clients whose work is unpaid or informal. The counselor had assumed the difference reflected client motivation.",
+      "correct": "B",
+      "explanation": "The pattern may reflect occupational-status bias rather than client motivation. Structured comparison, supervision, and relevant learning can identify specific behavior to change without replacing individualized care with identical scripts."
+    },
+    {
+      "id": "NCE-PDS05-021",
+      "prompt": "How should the counselor respond?",
+      "choices": {
+        "A": "Accept the results as screening data because the client completed the quiz voluntarily",
+        "B": "Average the quiz results with a validated screener to reduce the effect of any error",
+        "C": "Explain the limits, avoid interpreting unsupported scores, and select appropriate validated assessment methods if evaluation is indicated"
+      },
+      "domain": "Professional Development & Counselor Self-Awareness",
+      "subdomain": "Counselor Self-Awareness",
+      "unscored": true,
+      "scenarioBased": true,
+      "scenarioContext": "A client brings results from a free online mental health quiz that assigns several diagnoses. The counselor has never heard of the quiz, and the website provides no validation information, scoring method, or intended population.",
+      "correct": "C",
+      "explanation": "The quiz provides no basis for interpreting its diagnostic labels or scores. The counselor can validate the client's concern while using assessment methods with known purpose and support rather than averaging unsupported results into a valid tool."
+    },
+    {
+      "id": "NCE-LEC05-008",
+      "prompt": "What should the compliance officer do?",
+      "choices": {
+        "A": "Verify every legal claim against authoritative sources and obtain qualified review before adopting the manual",
+        "B": "Add a general artificial intelligence disclaimer and distribute the manual without further review",
+        "C": "Adopt the manual temporarily and correct its legal statements only if an incident occurs"
+      },
+      "domain": "Legal & Ethical Compliance",
+      "subdomain": "Technology, AI & Telemental Health Compliance",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A practice uses a generative artificial intelligence tool to draft a compliance manual. One section states that the practice's state has no breach-notification requirement and cites a court decision that does not exist.",
+      "correct": "A",
+      "explanation": "A fabricated citation and unsupported legal conclusion demonstrate that the draft cannot serve as a compliance authority. Human verification against current primary sources and qualified review are necessary before the practice relies on the manual."
+    },
+    {
+      "id": "NCE-LEC05-020",
+      "prompt": "What should the practice do?",
+      "choices": {
+        "A": "Obtain voluntary authorization and provide the required terms before initiating recurring charges",
+        "B": "Announce the change by email and enroll any client who does not object within seven days",
+        "C": "Process one recurring charge and request retroactive authorization at the next appointment"
+      },
+      "domain": "Legal & Ethical Compliance",
+      "subdomain": "Billing, Business Practices & Emergency Readiness",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A group practice plans to enroll every client automatically in recurring credit-card payments. Current agreements do not authorize recurring charges. The applicable consumer rule requires explicit consent, a disclosed charge schedule, and a clear cancellation method.",
+      "correct": "A",
+      "explanation": "The scenario requires explicit consent, scheduling information, and a cancellation method before recurring billing begins. Silence after an email or retroactive permission would not establish valid authorization for the charges."
+    },
+    {
+      "id": "NCE-LEC05-002",
+      "prompt": "What is the counselor's best response?",
+      "choices": {
+        "A": "State that ethical rules require the counselor to ignore the client in every public setting",
+        "B": "Discuss the client's privacy preferences, agree on an encounter plan, and avoid revealing the professional relationship",
+        "C": "Greet the client by explaining to nearby people that they know each other through counseling"
+      },
+      "domain": "Legal & Ethical Compliance",
+      "subdomain": "Legal, Regulatory & Ethical Duties",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A counselor and client live in a small island community and may see each other at an annual public festival. The client asks whether the counselor will say hello. Practice policy permits the parties to plan for incidental encounters but prohibits revealing the counseling relationship.",
+      "correct": "B",
+      "explanation": "Planning for likely incidental contact respects the client's preferences while protecting confidentiality in a close community. A rigid rule of always ignoring the client may itself feel conspicuous, while announcing the counseling relationship would disclose protected information."
+    },
+    {
+      "id": "NCE-INA05-017",
+      "prompt": "Which diagnosis is best supported?",
+      "choices": {
+        "A": "Excoriation disorder",
+        "B": "Body dysmorphic disorder",
+        "C": "Obsessive-compulsive personality disorder"
+      },
+      "domain": "Intake & Assessment",
+      "subdomain": "Assessment",
+      "unscored": true,
+      "scenarioBased": true,
+      "scenarioContext": "A client repeatedly picks at minor skin irregularities, causing lesions and scarring. The client has made several unsuccessful attempts to stop, spends substantial time concealing the damage, and experiences significant distress. The behavior is not due to a substance, medical condition, or another mental disorder.",
+      "correct": "A",
+      "explanation": "Recurrent skin picking causing lesions, repeated unsuccessful attempts to stop, and significant distress support excoriation disorder under the supplied exclusions. The central behavior is picking rather than preoccupation with a perceived appearance defect."
+    },
+    {
+      "id": "NCE-PCI05-007",
+      "prompt": "What does counselor congruence most directly involve?",
+      "choices": {
+        "A": "Sharing every personal reaction so the client never has to guess what the counselor feels.",
+        "B": "Being genuine and internally consistent while expressing only what serves the therapeutic relationship.",
+        "C": "Agreeing with the client’s perspective to maintain emotional harmony."
+      },
+      "domain": "Provision of Counseling Interventions",
+      "subdomain": "Core Counseling Skills & Therapeutic Alliance",
+      "unscored": true,
+      "scenarioBased": false,
+      "scenarioContext": "",
+      "correct": "B",
+      "explanation": "Congruence involves authenticity rather than a false professional role, but it does not require unfiltered disclosure. Therapeutic judgment keeps the client’s welfare and the relationship at the center."
+    },
+    {
+      "id": "NCE-LEC05-010",
+      "prompt": "How should the counselor respond?",
+      "choices": {
+        "A": "Give the causation opinion because treatment notes contain the client's account of work events",
+        "B": "Refuse to answer every question because a treating counselor can never testify",
+        "C": "Give truthful factual testimony within the treatment role and decline unsupported expert causation opinions"
+      },
+      "domain": "Legal & Ethical Compliance",
+      "subdomain": "Legal, Regulatory & Ethical Duties",
+      "unscored": false,
+      "scenarioBased": true,
+      "scenarioContext": "A subpoena requires a treating counselor to appear and testify about factual observations. An attorney also asks the counselor to state that workplace harassment legally caused the client's condition. The counselor has not performed a forensic causation evaluation, and the subpoena does not appoint the counselor as an expert.",
+      "correct": "C",
+      "explanation": "The counselor must respond within the lawful testimonial scope while remaining accurate about professional role and competence. Treatment notes do not by themselves support a forensic legal-causation opinion, and the subpoena does not justify a blanket refusal to testify."
+    }
+  ]
+}

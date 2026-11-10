@@ -9,7 +9,13 @@
     "B",
     "C"
   ],
-  "examFiles": [],
+  "examFiles": [
+    "nce_exam_01.json",
+    "nce_exam_02.json",
+    "nce_exam_03.json",
+    "nce_exam_04.json",
+    "nce_exam_05.json"
+  ],
   "plannedExamFiles": [
     "nce_exam_01.json",
     "nce_exam_02.json",
