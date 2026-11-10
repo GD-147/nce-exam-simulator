@@ -43,11 +43,14 @@
       "type": "mcq",
       "domain": "Professional Development & Counselor Self-Awareness",
       "blueprintWeightPercent": 15,
-      "questionCount": 21,
-      "timeMin": 34,
+      "questionCount": 25,
+      "timeMin": 33,
       "modes": [
+        "exam",
         "practice"
-      ]
+      ],
+      "scoredQuestionCount": 21,
+      "unscoredQuestionCount": 4
     },
     {
       "id": "domain2",
@@ -55,11 +58,14 @@
       "type": "mcq",
       "domain": "Intake & Assessment",
       "blueprintWeightPercent": 18,
-      "questionCount": 25,
+      "questionCount": 30,
       "timeMin": 40,
       "modes": [
+        "exam",
         "practice"
-      ]
+      ],
+      "scoredQuestionCount": 25,
+      "unscoredQuestionCount": 5
     },
     {
       "id": "domain3",
@@ -67,11 +73,14 @@
       "type": "mcq",
       "domain": "Treatment Planning & Continuity of Care",
       "blueprintWeightPercent": 15,
-      "questionCount": 21,
+      "questionCount": 26,
       "timeMin": 34,
       "modes": [
+        "exam",
         "practice"
-      ]
+      ],
+      "scoredQuestionCount": 21,
+      "unscoredQuestionCount": 5
     },
     {
       "id": "domain4",
@@ -79,11 +88,14 @@
       "type": "mcq",
       "domain": "Provision of Counseling Interventions",
       "blueprintWeightPercent": 20,
-      "questionCount": 28,
+      "questionCount": 34,
       "timeMin": 45,
       "modes": [
+        "exam",
         "practice"
-      ]
+      ],
+      "scoredQuestionCount": 28,
+      "unscoredQuestionCount": 6
     },
     {
       "id": "domain5",
@@ -91,11 +103,14 @@
       "type": "mcq",
       "domain": "Indirect Client Care",
       "blueprintWeightPercent": 12,
-      "questionCount": 17,
-      "timeMin": 27,
+      "questionCount": 21,
+      "timeMin": 28,
       "modes": [
+        "exam",
         "practice"
-      ]
+      ],
+      "scoredQuestionCount": 17,
+      "unscoredQuestionCount": 4
     },
     {
       "id": "domain6",
@@ -103,11 +118,14 @@
       "type": "mcq",
       "domain": "Legal & Ethical Compliance",
       "blueprintWeightPercent": 20,
-      "questionCount": 28,
+      "questionCount": 34,
       "timeMin": 45,
       "modes": [
+        "exam",
         "practice"
-      ]
+      ],
+      "scoredQuestionCount": 28,
+      "unscoredQuestionCount": 6
     },
     {
       "id": "full",
@@ -129,7 +147,28 @@
       }
     }
   ],
-  "printables": [],
+  "printables": [
+    {
+      "label": "NCE Practice Exam 01 — 170 Questions",
+      "file": "nce_exam_01.pdf"
+    },
+    {
+      "label": "NCE Practice Exam 02 — 170 Questions",
+      "file": "nce_exam_02.pdf"
+    },
+    {
+      "label": "NCE Practice Exam 03 — 170 Questions",
+      "file": "nce_exam_03.pdf"
+    },
+    {
+      "label": "NCE Practice Exam 04 — 170 Questions",
+      "file": "nce_exam_04.pdf"
+    },
+    {
+      "label": "NCE Practice Exam 05 — 170 Questions",
+      "file": "nce_exam_05.pdf"
+    }
+  ],
   "theme": "dark",
   "logoPath": "../packs/nce/assets/logo.png",
   "disclaimer": "Independent educational exam-preparation resource. Not affiliated with, sponsored, endorsed, or approved by NBCC. Contains original practice questions, not actual NCE items."

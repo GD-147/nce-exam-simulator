@@ -117,7 +117,23 @@ function nceTime(seconds) {
       let index = Number(localStorage.getItem(key) || 0);
       if (!Number.isInteger(index) || index < 0 || index >= sets.length) index = 0;
       const set = sets[index];
-      questions = nceShuffle(set.questions);
+      // NCE DOMAIN EXAM MODE: filter the rotated exam by the selected domain.
+      const selected = section.domain
+        ? set.questions.filter(q => q.domain === section.domain)
+        : set.questions;
+      if (section.domain) {
+        const expected = Number(section.questionCount);
+        const scoredExpected = Number(section.scoredQuestionCount);
+        const unscoredExpected = Number(section.unscoredQuestionCount);
+        const actualScored = selected.filter(q => !q.unscored).length;
+        const actualUnscored = selected.filter(q => q.unscored).length;
+        if (selected.length !== expected || actualScored !== scoredExpected ||
+            actualUnscored !== unscoredExpected) {
+          throw new Error(`Incorrect questions in ${section.label}: ` +
+            `${selected.length} total, ${actualScored} scored, ${actualUnscored} unscored.`);
+        }
+      }
+      questions = nceShuffle(selected);
       localStorage.setItem(key, String((index + 1) % sets.length));
       metadata = `${set.file} — ${questions.length} questions`;
     } else {
