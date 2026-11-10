@@ -149,24 +149,124 @@
   ],
   "printables": [
     {
-      "label": "NCE Practice Exam 01 — 170 Questions",
-      "file": "nce_exam_01.pdf"
+      "label": "NCE Practice Exam 01 — Domain 1: Professional Development & Counselor Self-Awareness (25 Questions)",
+      "file": "nce_practice_exam_01.pdf"
     },
     {
-      "label": "NCE Practice Exam 02 — 170 Questions",
-      "file": "nce_exam_02.pdf"
+      "label": "NCE Practice Exam 02 — Domain 2: Intake & Assessment (30 Questions)",
+      "file": "nce_practice_exam_02.pdf"
     },
     {
-      "label": "NCE Practice Exam 03 — 170 Questions",
-      "file": "nce_exam_03.pdf"
+      "label": "NCE Practice Exam 03 — Domain 3: Treatment Planning & Continuity of Care (26 Questions)",
+      "file": "nce_practice_exam_03.pdf"
     },
     {
-      "label": "NCE Practice Exam 04 — 170 Questions",
-      "file": "nce_exam_04.pdf"
+      "label": "NCE Practice Exam 04 — Domain 4: Provision of Counseling Interventions (34 Questions)",
+      "file": "nce_practice_exam_04.pdf"
     },
     {
-      "label": "NCE Practice Exam 05 — 170 Questions",
-      "file": "nce_exam_05.pdf"
+      "label": "NCE Practice Exam 05 — Domain 5: Indirect Client Care (21 Questions)",
+      "file": "nce_practice_exam_05.pdf"
+    },
+    {
+      "label": "NCE Practice Exam 06 — Domain 6: Legal & Ethical Compliance (34 Questions)",
+      "file": "nce_practice_exam_06.pdf"
+    },
+    {
+      "label": "NCE Practice Exam 07 — Domain 1: Professional Development & Counselor Self-Awareness (25 Questions)",
+      "file": "nce_practice_exam_07.pdf"
+    },
+    {
+      "label": "NCE Practice Exam 08 — Domain 2: Intake & Assessment (30 Questions)",
+      "file": "nce_practice_exam_08.pdf"
+    },
+    {
+      "label": "NCE Practice Exam 09 — Domain 3: Treatment Planning & Continuity of Care (26 Questions)",
+      "file": "nce_practice_exam_09.pdf"
+    },
+    {
+      "label": "NCE Practice Exam 10 — Domain 4: Provision of Counseling Interventions (34 Questions)",
+      "file": "nce_practice_exam_10.pdf"
+    },
+    {
+      "label": "NCE Practice Exam 11 — Domain 5: Indirect Client Care (21 Questions)",
+      "file": "nce_practice_exam_11.pdf"
+    },
+    {
+      "label": "NCE Practice Exam 12 — Domain 6: Legal & Ethical Compliance (34 Questions)",
+      "file": "nce_practice_exam_12.pdf"
+    },
+    {
+      "label": "NCE Practice Exam 13 — Domain 1: Professional Development & Counselor Self-Awareness (25 Questions)",
+      "file": "nce_practice_exam_13.pdf"
+    },
+    {
+      "label": "NCE Practice Exam 14 — Domain 2: Intake & Assessment (30 Questions)",
+      "file": "nce_practice_exam_14.pdf"
+    },
+    {
+      "label": "NCE Practice Exam 15 — Domain 3: Treatment Planning & Continuity of Care (26 Questions)",
+      "file": "nce_practice_exam_15.pdf"
+    },
+    {
+      "label": "NCE Practice Exam 16 — Domain 4: Provision of Counseling Interventions (34 Questions)",
+      "file": "nce_practice_exam_16.pdf"
+    },
+    {
+      "label": "NCE Practice Exam 17 — Domain 5: Indirect Client Care (21 Questions)",
+      "file": "nce_practice_exam_17.pdf"
+    },
+    {
+      "label": "NCE Practice Exam 18 — Domain 6: Legal & Ethical Compliance (34 Questions)",
+      "file": "nce_practice_exam_18.pdf"
+    },
+    {
+      "label": "NCE Practice Exam 19 — Domain 1: Professional Development & Counselor Self-Awareness (25 Questions)",
+      "file": "nce_practice_exam_19.pdf"
+    },
+    {
+      "label": "NCE Practice Exam 20 — Domain 2: Intake & Assessment (30 Questions)",
+      "file": "nce_practice_exam_20.pdf"
+    },
+    {
+      "label": "NCE Practice Exam 21 — Domain 3: Treatment Planning & Continuity of Care (26 Questions)",
+      "file": "nce_practice_exam_21.pdf"
+    },
+    {
+      "label": "NCE Practice Exam 22 — Domain 4: Provision of Counseling Interventions (34 Questions)",
+      "file": "nce_practice_exam_22.pdf"
+    },
+    {
+      "label": "NCE Practice Exam 23 — Domain 5: Indirect Client Care (21 Questions)",
+      "file": "nce_practice_exam_23.pdf"
+    },
+    {
+      "label": "NCE Practice Exam 24 — Domain 6: Legal & Ethical Compliance (34 Questions)",
+      "file": "nce_practice_exam_24.pdf"
+    },
+    {
+      "label": "NCE Practice Exam 25 — Domain 1: Professional Development & Counselor Self-Awareness (25 Questions)",
+      "file": "nce_practice_exam_25.pdf"
+    },
+    {
+      "label": "NCE Practice Exam 26 — Domain 2: Intake & Assessment (30 Questions)",
+      "file": "nce_practice_exam_26.pdf"
+    },
+    {
+      "label": "NCE Practice Exam 27 — Domain 3: Treatment Planning & Continuity of Care (26 Questions)",
+      "file": "nce_practice_exam_27.pdf"
+    },
+    {
+      "label": "NCE Practice Exam 28 — Domain 4: Provision of Counseling Interventions (34 Questions)",
+      "file": "nce_practice_exam_28.pdf"
+    },
+    {
+      "label": "NCE Practice Exam 29 — Domain 5: Indirect Client Care (21 Questions)",
+      "file": "nce_practice_exam_29.pdf"
+    },
+    {
+      "label": "NCE Practice Exam 30 — Domain 6: Legal & Ethical Compliance (34 Questions)",
+      "file": "nce_practice_exam_30.pdf"
     }
   ],
   "theme": "dark",
